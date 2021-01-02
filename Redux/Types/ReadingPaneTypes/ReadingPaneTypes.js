@@ -1,0 +1,4 @@
+export const GET_FORWARD="GET_FORWARD";
+export const GET_DOWNLOAD="GET_DOWNLOAD";
+export const GET_EMAIL="GET_EMAIL";
+export const GET_FACTOID_ANSWER = "GET_FACTOID_ANSWER";

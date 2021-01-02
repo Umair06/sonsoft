@@ -1,0 +1,5157 @@
+[
+  {
+    "id": "AdvanceSearch.PleaseWritefield",
+    "defaultMessage": "Please Write field",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Field",
+    "defaultMessage": "Field",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.RecentlyUsed",
+    "defaultMessage": "Recently Used",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.To",
+    "defaultMessage": "to",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.EmailFrom",
+    "defaultMessage": "from",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Documents",
+    "defaultMessage": "Documents",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Author",
+    "defaultMessage": "Author",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.CommentOrDescription",
+    "defaultMessage": "Comment/Description",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.ContentType",
+    "defaultMessage": "Content type",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.DateCreated",
+    "defaultMessage": "Date created",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.DocumentID",
+    "defaultMessage": "Document ID",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.FileName",
+    "defaultMessage": "File Name",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.FileSize",
+    "defaultMessage": "File Size",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.PleaseWriteCondition",
+    "defaultMessage": "Please Write condition",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Condition",
+    "defaultMessage": "Condition",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.DoesNotContain",
+    "defaultMessage": "Does not Contain",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Contains",
+    "defaultMessage": "Contains",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.PleaseEnterNewSearch",
+    "defaultMessage": "Please enter new search",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Value",
+    "defaultMessage": "Value",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.AND",
+    "defaultMessage": "AND",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.OR",
+    "defaultMessage": "OR",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.AdvancedSearch",
+    "defaultMessage": "Advanced Search",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.RequiredSearch",
+    "defaultMessage": "Required Search",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.PleaseWriteDate",
+    "defaultMessage": "Please Write date",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Date",
+    "defaultMessage": "Date:",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.EmailSentOrFileLastModified",
+    "defaultMessage": "Email Sent / File Last Modified",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.SelectAnyDate",
+    "defaultMessage": "Select any date",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.PleaseEnterTheValuesOfAllFields",
+    "defaultMessage": "Please enter the values of all fields",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.MM",
+    "defaultMessage": "MM",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.DD",
+    "defaultMessage": "DD",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.YYYY",
+    "defaultMessage": "YYYY",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.and",
+    "defaultMessage": "and",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.PleaseSelectDataTypes",
+    "defaultMessage": "Please Select data types",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Type:",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.SelectDataTypes",
+    "defaultMessage": "Select data types",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.ContentSearch",
+    "defaultMessage": "Content Search",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.AnyOfTheseTerms",
+    "defaultMessage": "Any of these terms",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Example: contract, SOW, 'statement of work'",
+    "defaultMessage": "Example: contract, SOW, \"statement of work\"",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Body",
+    "defaultMessage": "Body",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Subject",
+    "defaultMessage": "Subject",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Attachment",
+    "defaultMessage": "Attachment",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.AllOfTheseTerms",
+    "defaultMessage": "All of these terms",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Example: 'executed contract'~10",
+    "defaultMessage": "Example: \"executed contract\"~10",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.NoneOfTheseTerms",
+    "defaultMessage": "None of these terms",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.Example: \"Weekly news letter\"",
+    "defaultMessage": "Example: \"Weekly news letter\"",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "AdvanceSearch.MetadataSearch",
+    "defaultMessage": "Metadata Search",
+    "filepath": "src/Components/AdvanceSearch/AdvanceSearch.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.ApplyLegalHold",
+    "defaultMessage": "Apply Legal Hold",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.SelectLegalHold",
+    "defaultMessage": "Select Legal Hold",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.ApplyAll",
+    "defaultMessage": "Apply All",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.CreateNewCase",
+    "defaultMessage": "Create new Legal Hold",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "ApplyGlobalLabel.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/ApplyGlobalLabel/ApplyGlobalLabel.js"
+  },
+  {
+    "id": "CreateLegalHold.CreateLegalHold",
+    "defaultMessage": "Create Legal Hold",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.EnterLegalHoldName",
+    "defaultMessage": "Enter Legal Hold Name",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.EnterPrimaryAttorney",
+    "defaultMessage": "Enter Primary Attorney",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.SelectLegalHoldType",
+    "defaultMessage": "Select Legal Hold Type",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.SelectLegalHoldTeam",
+    "defaultMessage": "Select Legal Hold Team",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "CreateLegalHold.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/CreateLegalHold/CreateLegalHold.js"
+  },
+  {
+    "id": "ColumConfiguration.ColumnConfiguration",
+    "defaultMessage": "Column Configuration",
+    "filepath": "src/Components/CustomizeColumnDrawer/CustomizeColumDrawer.js"
+  },
+  {
+    "id": "DataTable.SyncStatus",
+    "defaultMessage": "Sync Status",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Enable",
+    "defaultMessage": "Enable",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Disable",
+    "defaultMessage": "Disable",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.ArchivePublicFolder",
+    "defaultMessage": "Archive Public Folder",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.StubEnable",
+    "defaultMessage": "Stub Enable",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.StubPeriod",
+    "defaultMessage": "Stub Period",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Activate",
+    "defaultMessage": "Activate",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Priority",
+    "defaultMessage": "Priority",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Dismiss",
+    "defaultMessage": "Dismiss",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Delete",
+    "defaultMessage": "Delete",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.EditORDelete",
+    "defaultMessage": "Edit/Delete",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.NoEmailsPleaseSelectCriteria",
+    "defaultMessage": "“Please perform NEW SEARCH to see data.”",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Actions",
+    "defaultMessage": "Actions",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.RowSelected",
+    "defaultMessage": "Row Selected",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.RowsSelected",
+    "defaultMessage": "Rows Selected",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.ColumnConfiguration",
+    "defaultMessage": "Column Configuration",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.Loading",
+    "defaultMessage": "Loading...",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DataTable.NoRecodsFound",
+    "defaultMessage": "No Recods Found",
+    "filepath": "src/Components/DataTable/DataTable.js"
+  },
+  {
+    "id": "DeleteSavedSearch.DeletedYourSavedEmail",
+    "defaultMessage": "Deleted Your Saved Email",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.DeleteSavedSearch",
+    "defaultMessage": "Delete Saved Search",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.SureYouWantToDeleteTheFollowingSavedSearch",
+    "defaultMessage": "Are you sure you want to delete the following Saved Search?",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.Name",
+    "defaultMessage": "Name:",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.Description",
+    "defaultMessage": "Description:",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "DeleteSavedSearch.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/DeleteSavedSearch/DeleteSavedSearch.js"
+  },
+  {
+    "id": "EmailModal.GrantedMailboxes",
+    "defaultMessage": "Granted Mailboxes",
+    "filepath": "src/Components/EmailModal/EmailModal.js"
+  },
+  {
+    "id": "Export.CreateExports",
+    "defaultMessage": "Create Exports",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.Select Exports",
+    "defaultMessage": "Select Exports",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.PleaseEnterTaskName",
+    "defaultMessage": "Please Enter Task Name",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.ApplyExclusionList",
+    "defaultMessage": "Apply Exclusion List",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.ApplyAutoRedaction",
+    "defaultMessage": "Apply Auto Redaction",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.SelectRedaction",
+    "defaultMessage": "Select Redaction",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.RequiredPassword",
+    "defaultMessage": "Required Password",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "Export.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Export/Export.js"
+  },
+  {
+    "id": "GlobalLabel.ApplyLabels",
+    "defaultMessage": "Apply Labels",
+    "filepath": "src/Components/GlobalLabel/GlobalLabel.js"
+  },
+  {
+    "id": "GlobalLabel.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/GlobalLabel/GlobalLabel.js"
+  },
+  {
+    "id": "GlobalLabel.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/GlobalLabel/GlobalLabel.js"
+  },
+  {
+    "id": "WhatsNewSideMenu.Contents",
+    "defaultMessage": "Contents",
+    "filepath": "src/Components/HelpSideBar/WhatsNewSideMenu/WhatsNewSideMenu.js"
+  },
+  {
+    "id": "WhatsNewSideMenu.WHATS_NEW",
+    "defaultMessage": "WHATS NEW",
+    "filepath": "src/Components/HelpSideBar/WhatsNewSideMenu/WhatsNewSideMenu.js"
+  },
+  {
+    "id": "WhatsNewSideMenu.RESOLVED_ISSUES",
+    "defaultMessage": "RESOLVED ISSUES",
+    "filepath": "src/Components/HelpSideBar/WhatsNewSideMenu/WhatsNewSideMenu.js"
+  },
+  {
+    "id": "WhatsNewSideMenu.KNOWN_ISSUES",
+    "defaultMessage": "KNOWN ISSUES",
+    "filepath": "src/Components/HelpSideBar/WhatsNewSideMenu/WhatsNewSideMenu.js"
+  },
+  {
+    "id": "WhatsNewSideMenu.LIMITATIONS",
+    "defaultMessage": "LIMITATIONS",
+    "filepath": "src/Components/HelpSideBar/WhatsNewSideMenu/WhatsNewSideMenu.js"
+  },
+  {
+    "id": "AboutUsDrawer.About",
+    "defaultMessage": "About",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.ProductSupport",
+    "defaultMessage": "Product Support",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Hours",
+    "defaultMessage": "Hours",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.PST",
+    "defaultMessage": "PST",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.SonaVaultSupport",
+    "defaultMessage": "SonaVault Support",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Headquarters",
+    "defaultMessage": "Headquarters",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Main",
+    "defaultMessage": "Main",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Support",
+    "defaultMessage": "Support",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Fax",
+    "defaultMessage": "Fax",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Software",
+    "defaultMessage": "Software",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Version",
+    "defaultMessage": "Version",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "AboutUsDrawer.Built",
+    "defaultMessage": "Built",
+    "filepath": "src/Components/Modal/AboutUsDrawer.js"
+  },
+  {
+    "id": "ActiveLegalHold.DeletedYourSavedEmail",
+    "defaultMessage": "Deleted Your Saved Email",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.ReleaseLegalHold",
+    "defaultMessage": "Release Legal Hold",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.AreyousureyouwanttoreleasethefollowingLegalHold(s)",
+    "defaultMessage": "Are you sure you want to release the selected Legal Hold(s)?",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.Name",
+    "defaultMessage": "Name:",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.Description",
+    "defaultMessage": "Description:",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "ActiveLegalHold.ReleasesLegalHolds",
+    "defaultMessage": "Releases Legal Hold",
+    "filepath": "src/Components/Modal/ActiveLegalHold.js"
+  },
+  {
+    "id": "AddNewCase.AddNewCase",
+    "defaultMessage": "Add New Case",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.From",
+    "defaultMessage": "From:",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.To",
+    "defaultMessage": "To:",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.Type",
+    "defaultMessage": "Type",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.PrimaryAttorney",
+    "defaultMessage": "Primary Attorney",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.Team",
+    "defaultMessage": "Team",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.PleaseChooseTheApprover",
+    "defaultMessage": "Please choose the approver",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AddNewCase.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/AddNewCase.js"
+  },
+  {
+    "id": "AdSetting.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot save something went wrong",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.EditADSetting",
+    "defaultMessage": "Edit AD Setting",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.AddADSetting",
+    "defaultMessage": "Add AD Setting",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.DomainName",
+    "defaultMessage": "Domain",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseEnterDomainName",
+    "defaultMessage": "Please Enter Domain",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.UserName",
+    "defaultMessage": "User Name",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.NetBIOS",
+    "defaultMessage": "NetBIOS",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseEnterUserName",
+    "defaultMessage": "Please Enter User Name",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseEnterNetBIOS",
+    "defaultMessage": "Please Enter NetBIOS",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.Password",
+    "defaultMessage": "Password",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseEnterPassword",
+    "defaultMessage": "Please Enter Password",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.EnabledSync",
+    "defaultMessage": "Enabled Sync :",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.AzureUsers",
+    "defaultMessage": "Azure Users? :",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.ApplicationClientID",
+    "defaultMessage": "Application Client ID :",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseWriteApplicationClientID",
+    "defaultMessage": "Please write Application Client ID",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.DiscoverOrganizationalUnit",
+    "defaultMessage": "Discover Organizational Unit :",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.PleaseEnterDiscoverOrganizationUnit",
+    "defaultMessage": "Please Enter Discover Organization Unit",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.All",
+    "defaultMessage": "All",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.Selected",
+    "defaultMessage": "Selected",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "AdSetting.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/adSetting.js"
+  },
+  {
+    "id": "ArchiveStore.ArchiveStoreName",
+    "defaultMessage": "Archive Store Name",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.PleaseEnterStoreName",
+    "defaultMessage": "Please enter store name",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.ArchiveStoreDatabaseName",
+    "defaultMessage": "Archive Store Database Name",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.PleaseEnterDatabaseName",
+    "defaultMessage": "Please enter database name",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.EnableSync",
+    "defaultMessage": "Enable Sync :",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.SearchAllowed",
+    "defaultMessage": "Search Allowed",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.ArchiveAllowed",
+    "defaultMessage": "Archive Allowed",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "ArchiveStore.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/ArchiveStore.js"
+  },
+  {
+    "id": "AssignAccess.content",
+    "defaultMessage": "content",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.descriptionOfContent",
+    "defaultMessage": "description of content",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot Save Something Went Wrong",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.EditMailboxAccessSetting",
+    "defaultMessage": "Edit Mailbox Access Setting",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.AddMailboxAccessSetting",
+    "defaultMessage": "Add Mailbox Access Setting",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.User",
+    "defaultMessage": "User",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Apply",
+    "defaultMessage": "Apply",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Clear",
+    "defaultMessage": "Clear",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.AssignAccessTo",
+    "defaultMessage": "Assign Access to:",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.AllUsers",
+    "defaultMessage": "All Users",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.SelectedUsers",
+    "defaultMessage": "Selected Users",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Server:",
+    "defaultMessage": "Server:",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.StorageGroup",
+    "defaultMessage": "Storage Group:",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.MailboxStore",
+    "defaultMessage": "Mailbox Store:",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.ShowDeletedMailbox",
+    "defaultMessage": "Show Deleted Mailbox",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Available",
+    "defaultMessage": "Available",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Selected",
+    "defaultMessage": "Selected",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Mailboxes",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AssignAccess.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/AssignAccess.js"
+  },
+  {
+    "id": "AutoLabel.EditLabelingPolicy",
+    "defaultMessage": "Edit Labeling Policy",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.AddLabelingPolicy",
+    "defaultMessage": "Add Labeling Policy",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.PolicyName",
+    "defaultMessage": "Policy Name:",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.PleaseEnterPolicyName",
+    "defaultMessage": "Please enter policy name",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.SelectColor",
+    "defaultMessage": "Select Color",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.PleaseEnterDescription",
+    "defaultMessage": "Please enter description",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.LabelName",
+    "defaultMessage": "Label Name:",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.PleaseSelectTheLabelName",
+    "defaultMessage": "Please select the Label name",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.AddNewLabel",
+    "defaultMessage": "Add New Label",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "AutoLabel.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/AutoLabel.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.ChangePassword",
+    "defaultMessage": "Change Password",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.EnterOldPassword",
+    "defaultMessage": "Enter Old Password",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.EnterNewPassword",
+    "defaultMessage": "Enter New Password",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.EnterConfirmPassword",
+    "defaultMessage": "Enter Confirm Password",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ChangePasswordDrawer.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/ChangePasswordDrawer.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.ContentIdentification",
+    "defaultMessage": "ContentIdentification",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.Type",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.ActiveStoreOnly",
+    "defaultMessage": "Active Store Only",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.AllStores",
+    "defaultMessage": "All Stores",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "ContentIdentificationSetting.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/contentIdentificationSetting.js"
+  },
+  {
+    "id": "Deployment.EditOtherSites",
+    "defaultMessage": "Edit Other Sites",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.AddOtherSites",
+    "defaultMessage": "Add Other Sites",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.SiteURL",
+    "defaultMessage": "Site URL",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.PleaseEnterSiteURL",
+    "defaultMessage": "Please Enter Site URL",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.AuthorizationKey",
+    "defaultMessage": "Authorization Key",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.PleaseEnterAuthorizationKey",
+    "defaultMessage": "Please Enter Authorization Key",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.AuthenticationRequired",
+    "defaultMessage": "Authentication Required",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.UserName",
+    "defaultMessage": "User Name",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.Password",
+    "defaultMessage": "Password",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "Deployment.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/Deployment.js"
+  },
+  {
+    "id": "DismissDrawer.DismissNotification",
+    "defaultMessage": "Dismiss Notification",
+    "filepath": "src/Components/Modal/DismissDrawer.js"
+  },
+  {
+    "id": "DismissDrawer.AreYouSureYouWantToDismissNotification?",
+    "defaultMessage": "Are you sure you want to dismiss notification?",
+    "filepath": "src/Components/Modal/DismissDrawer.js"
+  },
+  {
+    "id": "DismissDrawer.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Modal/DismissDrawer.js"
+  },
+  {
+    "id": "DismissDrawer.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/DismissDrawer.js"
+  },
+  {
+    "id": "EmailServer.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot Save Something Went Wrong",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.EditEmailServer",
+    "defaultMessage": "Edit Email Server",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.AddEmailServer",
+    "defaultMessage": "Add Email Server",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.DomainName",
+    "defaultMessage": "Domain Name",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterDomainName",
+    "defaultMessage": "Please enter Domain Name",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Select",
+    "defaultMessage": "Select",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.EmailServer",
+    "defaultMessage": "Email Server",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterEmailServer",
+    "defaultMessage": "Please Enter Email Server",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ExchangeVersion",
+    "defaultMessage": "Exchange Version",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterExchangeVersion",
+    "defaultMessage": "Please Enter Exchange Version",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ExchangeServicePack",
+    "defaultMessage": "Exchange Service Pack",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterExchangeServicePack",
+    "defaultMessage": "Please Enter Exchange Service Pack",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.JournalMailBox",
+    "defaultMessage": "Journal MailBox",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterJournalMailBox",
+    "defaultMessage": "Please Enter Journal MailBox",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.JournalLogon",
+    "defaultMessage": "Journal Logon",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterJournalLogon",
+    "defaultMessage": "Please Enter Journal Logon",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.JournalPassword",
+    "defaultMessage": "Journal Password",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterPassword",
+    "defaultMessage": "Please Enter Password",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.FrequencyInSeconds",
+    "defaultMessage": "Frequency (Seconds)",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PleaseEnterFrequency",
+    "defaultMessage": "Please Enter Frequency",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Enable",
+    "defaultMessage": "Enable",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ArchivePublicFolder",
+    "defaultMessage": "Archive Public Folder",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.PublicFolderPollFrequency",
+    "defaultMessage": "Public Folder Poll Frequence",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.EnableStub",
+    "defaultMessage": "Enable Stub",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.StubPeriodInDays",
+    "defaultMessage": "StubPeriod (Days)",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.StubOrDeleteEmail",
+    "defaultMessage": "Stub/Delete Email",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Stub",
+    "defaultMessage": "Stub",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Delete",
+    "defaultMessage": "Delete",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.StubOnlyAttachments",
+    "defaultMessage": "Stub Only Attachments",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.StubOrDeleteOptions",
+    "defaultMessage": "Stub/Delete Options",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Normal",
+    "defaultMessage": "Normal",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.MailSizeGreaterThan",
+    "defaultMessage": "Mail Size Greater Than",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.MailHasAttachment",
+    "defaultMessage": "Mail Has Attachment",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.EmailSizeInKB",
+    "defaultMessage": "Email Size (KB)",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ExcludeHours",
+    "defaultMessage": "Exclude Hours",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ExcludeHoursStartTime",
+    "defaultMessage": "Exclude Hours Start Time",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.ExcludeHoursEndTime",
+    "defaultMessage": "Exclude Hours End Time",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "EmailServer.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/emailServer.js"
+  },
+  {
+    "id": "HelpDrawer.Help",
+    "defaultMessage": "Help",
+    "filepath": "src/Components/Modal/HelpSideDrawer.js"
+  },
+  {
+    "id": "HelpDrawer.WHATSNEW",
+    "defaultMessage": "WHAT'S NEW",
+    "filepath": "src/Components/Modal/HelpSideDrawer.js"
+  },
+  {
+    "id": "HelpDrawer.HELP",
+    "defaultMessage": "HELP",
+    "filepath": "src/Components/Modal/HelpSideDrawer.js"
+  },
+  {
+    "id": "HelpDrawer.ABOUT",
+    "defaultMessage": "ABOUT",
+    "filepath": "src/Components/Modal/HelpSideDrawer.js"
+  },
+  {
+    "id": "HistoricDomain.content",
+    "defaultMessage": "content",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.descriptionOfContent",
+    "defaultMessage": "description of content",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot Save Something Went Wrong",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.EditHistoricDomain",
+    "defaultMessage": "Edit Historic Domain",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.AddHistoricDomain",
+    "defaultMessage": "Add Historic Domain",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.OldDomainName",
+    "defaultMessage": "Old Domain Name",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.PleaseEnterOldDomainName",
+    "defaultMessage": "Please enter Old Domain Name",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.OldDomainDescription",
+    "defaultMessage": "Old Domain Description",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.PleaseEnterOldDomainDescription",
+    "defaultMessage": "Please enter Old Domain Description",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Available",
+    "defaultMessage": "Available",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Selected",
+    "defaultMessage": "Selected",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Mailboxes",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "HistoricDomain.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/HistoricDomain.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot Save Something Went Wrong",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.EditNotificationSettings",
+    "defaultMessage": "Edit Notification Settings",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.AddNotificationSettings",
+    "defaultMessage": "Add Notification Settings",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.NotificationType",
+    "defaultMessage": "Notification Type:",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.PleaseEnterNotificationType",
+    "defaultMessage": "Please enter Notification Type",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.SelectNotificationType",
+    "defaultMessage": "Select Notification Type",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.All",
+    "defaultMessage": "All",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.ActivateProduct",
+    "defaultMessage": "Activate Product",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.ArchivalPolicy",
+    "defaultMessage": "Archival Policy",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.To",
+    "defaultMessage": "To:",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.Cc",
+    "defaultMessage": "Cc:",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.TheInputIsNotValidEmail",
+    "defaultMessage": "The input is not valid E-mail!",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.PleaseInputYourEmail",
+    "defaultMessage": "Please input your E-mail!",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "Notification_SettingDrawer.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/Notification.js"
+  },
+  {
+    "id": "NotificationDrawer.Notifications",
+    "defaultMessage": "Notifications",
+    "filepath": "src/Components/Modal/NotificationDrawer.js"
+  },
+  {
+    "id": "NotificationDrawer.SeeAll",
+    "defaultMessage": "See All",
+    "filepath": "src/Components/Modal/NotificationDrawer.js"
+  },
+  {
+    "id": "ProfileDrawer.CHANGEPASSWORD",
+    "defaultMessage": "CHANGE PASSWORD",
+    "filepath": "src/Components/Modal/ProfileDrawer.js"
+  },
+  {
+    "id": "ProfileDrawer.LOGOUT",
+    "defaultMessage": "LOG OUT",
+    "filepath": "src/Components/Modal/ProfileDrawer.js"
+  },
+  {
+    "id": "QueryBuilder.QueryBuilder",
+    "defaultMessage": "Query Builder",
+    "filepath": "src/Components/Modal/QueryBuilderDrawer.js"
+  },
+  {
+    "id": "QueryBuilder.PleaseEnterQuery",
+    "defaultMessage": "Please enter a query",
+    "filepath": "src/Components/Modal/QueryBuilderDrawer.js"
+  },
+  {
+    "id": "QueryBuilder.EnterQuery",
+    "defaultMessage": "Enter Query",
+    "filepath": "src/Components/Modal/QueryBuilderDrawer.js"
+  },
+  {
+    "id": "QueryBuilder.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Modal/QueryBuilderDrawer.js"
+  },
+  {
+    "id": "QueryBuilder.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/QueryBuilderDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.Quick Navigation",
+    "defaultMessage": "Quick Navigation",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.controlCenterCard",
+    "defaultMessage": "CONTROL CENTER",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.myArchivedEmailCard",
+    "defaultMessage": "MY ARCHIVED EMAIL",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.searchArchiveCard",
+    "defaultMessage": "SEARCH ARCHIVE",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.legalHoldsCard",
+    "defaultMessage": "LEGAL HOLDS",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.exportsCard",
+    "defaultMessage": "EXPORTS",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.policiesCard",
+    "defaultMessage": "POLICIES",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "QuickNavigationDrawer.schedulerCard",
+    "defaultMessage": "SCHEDULER",
+    "filepath": "src/Components/Modal/QuickNavigationDrawer.js"
+  },
+  {
+    "id": "RedactionList.EditRedactionList",
+    "defaultMessage": "Edit Redaction List",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.AddRedactionList",
+    "defaultMessage": "Add Redaction List",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.RedactionTitle",
+    "defaultMessage": "Redaction Title:",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.PleaseEnterRedactionTitle",
+    "defaultMessage": "Please Enter Redaction Title",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.RegularExpression",
+    "defaultMessage": "Regular Expression:",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.PleaseEnterRegularExpression",
+    "defaultMessage": "Please Enter Regular Expression",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.PleaseEnterEnabled",
+    "defaultMessage": "Please Enter Enabled",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.Enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "RedactionList.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/RedactionList.js"
+  },
+  {
+    "id": "ReleasesLegalHold.DeletedYourSavedEmail",
+    "defaultMessage": "Deleted Your Saved Email",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.ReleaseLegalHold",
+    "defaultMessage": "Release Legal Hold",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.AreyousureyouwanttoreleasethefollowingLegalHold(s)",
+    "defaultMessage": "Are you sure you want to release the selected Legal Hold(s)?",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.Name",
+    "defaultMessage": "Name:",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.Description",
+    "defaultMessage": "Description:",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "ReleasesLegalHold.ReleasesLegalHolds",
+    "defaultMessage": "Releases Legal Hold",
+    "filepath": "src/Components/Modal/ReleasesLegalHold.js"
+  },
+  {
+    "id": "RemoveDocument.DeletedYourSavedEmail",
+    "defaultMessage": "Deleted Your Saved Email",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.ReleaseLegalHold",
+    "defaultMessage": "Release Legal Hold",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Areyousureyouwanttoremovealldocuments?",
+    "defaultMessage": "Are you sure you want to remove all documents?",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Areyousureyouwanttoremovetheselecteddocument?",
+    "defaultMessage": "Are you sure you want to remove the selected documents?",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Name",
+    "defaultMessage": "Name:",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Description",
+    "defaultMessage": "Description:",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "RemoveDocument.ReleasesLegalHolds",
+    "defaultMessage": "Releases Legal Hold",
+    "filepath": "src/Components/Modal/RemoveDocument.js"
+  },
+  {
+    "id": "Retention.couldNotSaveSomeThingWent",
+    "defaultMessage": "couldNot Save SomeThing Went",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.EditRetentionPolicy",
+    "defaultMessage": "Edit Retention Policy",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.AddRetentionPolicy",
+    "defaultMessage": "Add Retention Policy",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PolicyName",
+    "defaultMessage": "Policy Name:",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PleaseEnterPolicyName",
+    "defaultMessage": "Please enter policy name",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.RetentionPeriod",
+    "defaultMessage": "Retention Period:",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PleaseEnterRetentionPeriod",
+    "defaultMessage": "Please enter Retention Period",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.RetentionGracePeriod",
+    "defaultMessage": "Retention Grace Period:",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PleaseEnterRetentionGracePeriod",
+    "defaultMessage": "Please enter Retention Grace Period",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PleaseEnterActive",
+    "defaultMessage": "Please enter Active",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.Active",
+    "defaultMessage": "Active:",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.SearchCriteria",
+    "defaultMessage": "Search Criteria",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.PleaseSubmit",
+    "defaultMessage": "Please submit",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "Retention.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/Retention.js"
+  },
+  {
+    "id": "RetentionPolicySetting.couldNotSaveSomeThingWentWrong",
+    "defaultMessage": "couldNot Save SomeThing Went Wrong",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.RetentionPolicySetting",
+    "defaultMessage": "Retention Policy Setting",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.CalculateExpiryDateBasedOn",
+    "defaultMessage": "Calculate expiry date based on:",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.IngestionDate",
+    "defaultMessage": "Ingestion Date",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.MessageReceivedDate",
+    "defaultMessage": "Message Received Date",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.RetentionBasedOn",
+    "defaultMessage": "Retention based on:",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.Priority",
+    "defaultMessage": "Priority",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.MaximumRetentionPeriod",
+    "defaultMessage": "Maximum Retention Period",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RetentionPolicySetting.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/RetentionPolicySetting.js"
+  },
+  {
+    "id": "RoleManagement.PriceMustGreaterThanZero",
+    "defaultMessage": "Price must greater than zero!",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.EditRoleManagementSetting",
+    "defaultMessage": "Edit Role Management Setting",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.AddRoleManagementSetting",
+    "defaultMessage": "Add Role Management Setting",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.CloseNow",
+    "defaultMessage": "Close Now",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.Role",
+    "defaultMessage": "Role:",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.PleaseEnterRoleName",
+    "defaultMessage": "please Enter role Name",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.Description",
+    "defaultMessage": "Description:",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.PleaseEnterDescription",
+    "defaultMessage": "Please enter description",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.EnableSync",
+    "defaultMessage": "Enable Sync:",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.AssignPermission",
+    "defaultMessage": "Assign Permission:",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RoleManagement.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/RoleManagement.js"
+  },
+  {
+    "id": "RollOverPolicy.RollOverPolicy",
+    "defaultMessage": "Roll Over Policy",
+    "filepath": "src/Components/Modal/RollOverPolicy.js"
+  },
+  {
+    "id": "RollOverPolicy.Type",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/Modal/RollOverPolicy.js"
+  },
+  {
+    "id": "RollOverPolicy.AD",
+    "defaultMessage": "AD",
+    "filepath": "src/Components/Modal/RollOverPolicy.js"
+  },
+  {
+    "id": "RollOverPolicy.Local",
+    "defaultMessage": "Local",
+    "filepath": "src/Components/Modal/RollOverPolicy.js"
+  },
+  {
+    "id": "StubPolicy.content",
+    "defaultMessage": "content",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.descriptionOfContent",
+    "defaultMessage": "description of content",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.CouldnotSaveSomethingWentWrong",
+    "defaultMessage": "Couldnot Save Something Went Wrong",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.EditStubPolicy",
+    "defaultMessage": "Edit Stub Policy",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.AddStubPolicy",
+    "defaultMessage": "Add Stub Policy",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.StubPolicyName",
+    "defaultMessage": "Stub Policy Name:",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.PleaseEnterStubPolicyName",
+    "defaultMessage": "Please Enter Stub Policy Name",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.StubPolicyDescription",
+    "defaultMessage": "Stub Policy Description:",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.PleaseEnterStubPolicyDescription",
+    "defaultMessage": "Please Enter Stub Policy Description",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.StubPeriodInDays",
+    "defaultMessage": "Stub Period(Days):",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.PleaseEnterStubPeriod(Days)",
+    "defaultMessage": "Please Enter Stub Period(Days)",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Available",
+    "defaultMessage": "Available",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Selected",
+    "defaultMessage": "Selected",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Mailboxes",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicy.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/StubPolicy.js"
+  },
+  {
+    "id": "StubPolicySetting.couldNotSaveSomeThingWentWrong",
+    "defaultMessage": "couldNot Save SomeThing Went Wrong",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.StubPolicySetting",
+    "defaultMessage": "Stub Policy Setting",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.Type",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.AD",
+    "defaultMessage": "AD",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.Local",
+    "defaultMessage": "Local",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.Priority",
+    "defaultMessage": "Priority",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.MaximumStubPeriod",
+    "defaultMessage": "Maximum Stub Period",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "StubPolicySetting.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/StubPolicySetting.js"
+  },
+  {
+    "id": "UserManagement.CouldNotSaveSomeThingWentWrong",
+    "defaultMessage": "CouldNot Save SomeThing Went Wrong",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.EditUser",
+    "defaultMessage": "Edit User",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.AddUser",
+    "defaultMessage": "Add User",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.UserType",
+    "defaultMessage": "User Type:",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.PleaseEnterUserType",
+    "defaultMessage": "Please Enter User Type",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.UserName",
+    "defaultMessage": "User Name:",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.PleaseEnterUserName",
+    "defaultMessage": "Please Enter User Name",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.DisplayName",
+    "defaultMessage": "Display Name:",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.PleaseEnterDisplayName",
+    "defaultMessage": "Please Enter Display Name",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.EmailAddress",
+    "defaultMessage": "Email Address",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.TheInputIsNotValidEmail",
+    "defaultMessage": "The input is not valid E-mail!",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.PleaseInputYourEmail",
+    "defaultMessage": "Please input your E-mail!",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.Role",
+    "defaultMessage": "Role",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.SelectRole",
+    "defaultMessage": "Select a role",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.Server",
+    "defaultMessage": "Server",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.PleaseEnterServerName",
+    "defaultMessage": "Please Enter Server Name",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.StorageGroup",
+    "defaultMessage": "Storage Group",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.MailboxStore",
+    "defaultMessage": "Mailbox Store",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.LDAP_Path",
+    "defaultMessage": "LDAP Path",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagement.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/UserManagement.js"
+  },
+  {
+    "id": "UserManagementSetting.CouldNotSaveSomeThingWentWrong",
+    "defaultMessage": "CouldNot Save SomeThing Went Wrong",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "UserManagementSetting.UserManagementSetting",
+    "defaultMessage": "User Management Setting",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "UserManagementSetting.Type",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "UserManagementSetting.AD",
+    "defaultMessage": "AD",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "UserManagementSetting.Local",
+    "defaultMessage": "Local",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "UserManagementSetting.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/Modal/UserManagementSetting.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.OpenMenu",
+    "defaultMessage": "Open Menu",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Inbox",
+    "defaultMessage": "Inbox",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.ACEDS",
+    "defaultMessage": "ACEDS",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Boehringer",
+    "defaultMessage": "Boehringer",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.CornerStone",
+    "defaultMessage": "CornerStone",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Expenses",
+    "defaultMessage": "Expenses",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.LegalTech",
+    "defaultMessage": "legal tech",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Exterro",
+    "defaultMessage": "Exterro",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.IHG4",
+    "defaultMessage": "IHG4",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.SEARCH",
+    "defaultMessage": "SEARCH",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Please enter search Item",
+    "defaultMessage": "Please enter search Item",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.From",
+    "defaultMessage": "From",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "MyArchiveEmailSideBar.To",
+    "defaultMessage": "To",
+    "filepath": "src/Components/MyArchivedEmail/MyArchivedEmail.js"
+  },
+  {
+    "id": "Footer.Copyright_(c)_Sonasoft_2019",
+    "defaultMessage": "Copyright (c) Sonasoft 2019",
+    "filepath": "src/Components/Navbar/Footer/Footer.js"
+  },
+  {
+    "id": "Footer.Version7",
+    "defaultMessage": "Version 7.0",
+    "filepath": "src/Components/Navbar/Footer/Footer.js"
+  },
+  {
+    "id": "Footer.Sonasoft.com",
+    "defaultMessage": "Sonasoft.com",
+    "filepath": "src/Components/Navbar/Footer/Footer.js"
+  },
+  {
+    "id": "Header.2019FallRelease",
+    "defaultMessage": "2019 Fall Release",
+    "filepath": "src/Components/Navbar/Header/Header.js"
+  },
+  {
+    "id": "Header.SignIn",
+    "defaultMessage": "Sign In",
+    "filepath": "src/Components/Navbar/Header/Header.js"
+  },
+  {
+    "id": "NotificationSideBar.OpenMenu",
+    "defaultMessage": "Open Menu",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.SEARCH",
+    "defaultMessage": "SEARCH",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.PleaseEnterNotificationType",
+    "defaultMessage": "Please enter notification type",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.NotificationType",
+    "defaultMessage": "Notification Type",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.PleaseEnterSearchItem",
+    "defaultMessage": "Please enter search Item",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.TypeToSearch",
+    "defaultMessage": "Type to search",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "NotificationSideBar.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/Notifications/Notifications.js"
+  },
+  {
+    "id": "GridViewPageHeader.Total",
+    "defaultMessage": "Total",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "GridViewPageHeader.Documents",
+    "defaultMessage": "Documents",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "GridViewPageHeader.LastUpdated",
+    "defaultMessage": "Last Updated",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "GridViewPageHeader.SaveSearch",
+    "defaultMessage": "Save Search",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "GridViewPageHeader.Delete",
+    "defaultMessage": "Delete",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "GridViewPageHeader.AddNewCase",
+    "defaultMessage": "Add New Case",
+    "filepath": "src/Components/PageHeader/GridViewPageHeader.js"
+  },
+  {
+    "id": "PageHeading.LastUpdated",
+    "defaultMessage": "Last Updated September 31st, 2019",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Assign",
+    "defaultMessage": "Assign",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Apply",
+    "defaultMessage": "Apply",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading._Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PageHeading.Run",
+    "defaultMessage": "Run",
+    "filepath": "src/Components/PageHeader/PageHeader.js"
+  },
+  {
+    "id": "PreservationSideBar.FILTERS",
+    "defaultMessage": "FILTERS",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.GlobalLabel",
+    "defaultMessage": "Global Label",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Employees",
+    "defaultMessage": "Employees",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Types",
+    "defaultMessage": "Types",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.LegalHold",
+    "defaultMessage": "Legal Hold",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Status",
+    "defaultMessage": "Status:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Name",
+    "defaultMessage": "Name:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Type",
+    "defaultMessage": "Type:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.PrimaryAttorney",
+    "defaultMessage": "Primary Attorney:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Team",
+    "defaultMessage": "Team:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.CreatedDate",
+    "defaultMessage": "Created Date:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.ReleasedDate",
+    "defaultMessage": "Released Date:",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.SEARCH",
+    "defaultMessage": "SEARCH",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.PleaseEnterSomething",
+    "defaultMessage": "Please enter something",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.SearchName",
+    "defaultMessage": "Search Name",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.LegalHoldType",
+    "defaultMessage": "Legal Hold Type",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Primary_Attorney",
+    "defaultMessage": "Primary Attorney",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.SelectLegalHoldTeam",
+    "defaultMessage": "Select Legal Hold Team",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.PleaseSelectCreatedBy",
+    "defaultMessage": "Please select created by",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.CreatedBetween",
+    "defaultMessage": "Created between",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.CreatedFrom",
+    "defaultMessage": "Created from",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.CreatedTo",
+    "defaultMessage": "Created to",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.CreatedOn",
+    "defaultMessage": "Created on",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.ClosedFrom",
+    "defaultMessage": "Closed from",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.ClosedTo",
+    "defaultMessage": "Closed to",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.ClosedOn",
+    "defaultMessage": "Closed on",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Apply",
+    "defaultMessage": "Apply",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "PreservationSideBar.Clear",
+    "defaultMessage": "Clear",
+    "filepath": "src/Components/PreservationSideBar/PreservationSideBar.js"
+  },
+  {
+    "id": "DownloadDrawer.Download",
+    "defaultMessage": "Download",
+    "filepath": "src/Components/ReadingPane/Components/DownloadDrawer.js"
+  },
+  {
+    "id": "DownloadDrawer.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/ReadingPane/Components/DownloadDrawer.js"
+  },
+  {
+    "id": "DownloadDrawer.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/ReadingPane/Components/DownloadDrawer.js"
+  },
+  {
+    "id": "ForwardDrawer.Forward",
+    "defaultMessage": "Forward",
+    "filepath": "src/Components/ReadingPane/Components/ForwardDrawer.js"
+  },
+  {
+    "id": "ForwardDrawer.PleaseInputEmailAddress",
+    "defaultMessage": "Please input Email Address",
+    "filepath": "src/Components/ReadingPane/Components/ForwardDrawer.js"
+  },
+  {
+    "id": "ForwardDrawer.EnterEmailAddress",
+    "defaultMessage": "Enter Email Address",
+    "filepath": "src/Components/ReadingPane/Components/ForwardDrawer.js"
+  },
+  {
+    "id": "ForwardDrawer.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/ReadingPane/Components/ForwardDrawer.js"
+  },
+  {
+    "id": "ForwardDrawer.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/ReadingPane/Components/ForwardDrawer.js"
+  },
+  {
+    "id": "MyArchiveEmails.MyArchiveEmails",
+    "defaultMessage": "My Archive Emails",
+    "filepath": "src/Components/ReadingPane/Components/MyArchiveEmails.js"
+  },
+  {
+    "id": "MyArchiveEmails.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/ReadingPane/Components/MyArchiveEmails.js"
+  },
+  {
+    "id": "MyArchiveEmails.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/ReadingPane/Components/MyArchiveEmails.js"
+  },
+  {
+    "id": "RecipentsDrawer.Recipents",
+    "defaultMessage": "Recipents",
+    "filepath": "src/Components/ReadingPane/Components/RecipentsDrawer.js"
+  },
+  {
+    "id": "ReadingPane.Message",
+    "defaultMessage": "Message",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.SonaVaultSystem",
+    "defaultMessage": "SonaVault System",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.To",
+    "defaultMessage": "To:",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.ViewTaskLog",
+    "defaultMessage": "View Task Log",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.Metadata",
+    "defaultMessage": "Metadata",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.SeeAllRecipents",
+    "defaultMessage": "see all recipents",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.ShowAll",
+    "defaultMessage": "show all",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.attachments",
+    "defaultMessage": "attachments",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "ReadingPane.SelectAnItemToRead",
+    "defaultMessage": "Select an Item to read",
+    "filepath": "src/Components/ReadingPane/ReadingPane.js"
+  },
+  {
+    "id": "Report.SearchArchiveReport",
+    "defaultMessage": "Search Archive Report",
+    "filepath": "src/Components/Report/Report.js"
+  },
+  {
+    "id": "Report.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/Report/Report.js"
+  },
+  {
+    "id": "Report.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/Report/Report.js"
+  },
+  {
+    "id": "SaveSearch.PleaseSelectSearchCriteria",
+    "defaultMessage": "Please Select A Search Criteria",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.EditSavedSearch",
+    "defaultMessage": "Edit Saved Search",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.SaveSearch",
+    "defaultMessage": "Save Search",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.EnterSearchName",
+    "defaultMessage": "Enter Search Name",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.EnterSearchDescription",
+    "defaultMessage": "Enter Search Description",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.SEARCHCRITERIA",
+    "defaultMessage": "SEARCH CRITERIA",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.Submit",
+    "defaultMessage": "Submit",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearch.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Components/SaveSearch/SaveSearch.js"
+  },
+  {
+    "id": "SaveSearchSideBar.OpenMenu",
+    "defaultMessage": "Open Menu",
+    "filepath": "src/Components/SaveSearchSideBar/SaveSearchSideBar.js"
+  },
+  {
+    "id": "SaveSearchSideBar.SEARCH",
+    "defaultMessage": "SEARCH",
+    "filepath": "src/Components/SaveSearchSideBar/SaveSearchSideBar.js"
+  },
+  {
+    "id": "SaveSearchSideBar.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/SaveSearchSideBar/SaveSearchSideBar.js"
+  },
+  {
+    "id": "SaveSearchSideBar.PleaseEnterSearchItem",
+    "defaultMessage": "Please enter search item",
+    "filepath": "src/Components/SaveSearchSideBar/SaveSearchSideBar.js"
+  },
+  {
+    "id": "SearchArchive.Keyword",
+    "defaultMessage": "Keyword",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.DateRange",
+    "defaultMessage": "Date Range",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Employees",
+    "defaultMessage": "Employees",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Types",
+    "defaultMessage": "Types",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Labels",
+    "defaultMessage": "Labels",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.AnyOfTheseTerms",
+    "defaultMessage": "Any of these terms",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.AllOfTheseTerms",
+    "defaultMessage": "All of these terms",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.MetadataSearch",
+    "defaultMessage": "Metadata Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.From:",
+    "defaultMessage": "From:",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.To:",
+    "defaultMessage": "To:",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.AnyDate",
+    "defaultMessage": "Any Date",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SimpleSearch",
+    "defaultMessage": "Simple Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.AdvancedSearch",
+    "defaultMessage": "Advanced Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.QueryBuilder",
+    "defaultMessage": "Query Builder",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SavedSearch",
+    "defaultMessage": "Saved Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.ClickOnMenuItem",
+    "defaultMessage": "Click on menu item.",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.FILTERS",
+    "defaultMessage": "FILTERS",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.GlobalLabel",
+    "defaultMessage": "Global Label",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Employees",
+    "defaultMessage": "Employees",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Types",
+    "defaultMessage": "Types",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Apply",
+    "defaultMessage": "Apply",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Clear",
+    "defaultMessage": "Clear",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SEARCH_CRITERIA",
+    "defaultMessage": "SEARCH CRITERIA",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SAVED_SEARCH",
+    "defaultMessage": "SAVED SEARCH",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SelectSavedSearch",
+    "defaultMessage": "Select a Saved Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.FetchingSavedSearches",
+    "defaultMessage": "Fetching Saved Searches",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SEARCH",
+    "defaultMessage": "SEARCH",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.PleaseEnterNewSearch",
+    "defaultMessage": "Please enter new search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._From",
+    "defaultMessage": "From",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._To",
+    "defaultMessage": "To",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SelectEmployees",
+    "defaultMessage": "Select Employees",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.FetchingEmployees",
+    "defaultMessage": "Fetching Employees",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SelectTypes",
+    "defaultMessage": "Select Types",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.FetchingTypes",
+    "defaultMessage": "Fetching Types",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.SelectLabels",
+    "defaultMessage": "Select Labels",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Search",
+    "defaultMessage": "Search",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.ADVANCED_SEARCH_CRITERIA",
+    "defaultMessage": "ADVANCED SEARCH CRITERIA",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive._Clear+",
+    "defaultMessage": "Clear",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchArchive.NoCriteria",
+    "defaultMessage": "No Criteria",
+    "filepath": "src/Components/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "SearchCriteria.Keyword",
+    "defaultMessage": "Keyword",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.DateRange",
+    "defaultMessage": "Date Range",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.Employees",
+    "defaultMessage": "Employees",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.Types",
+    "defaultMessage": "Types",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.Labels",
+    "defaultMessage": "Labels",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.SavedSearchCriteria",
+    "defaultMessage": "Saved Search Criteria",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.SEARCH_CRITERIA",
+    "defaultMessage": "SEARCH CRITERIA",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.From",
+    "defaultMessage": "From:",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.To",
+    "defaultMessage": "To:",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "SearchCriteria.AnyDate",
+    "defaultMessage": "Any Date",
+    "filepath": "src/Components/SearchCriteria/SearchCriteria.js"
+  },
+  {
+    "id": "HelpTemplate.Contents",
+    "defaultMessage": "Contents",
+    "filepath": "src/Container/HelpTemplate/HelpTemplate.js"
+  },
+  {
+    "id": "contentIdentification.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/ContentIdentification/ContentIdentifications/ContentIdentifications.js"
+  },
+  {
+    "id": "contentIdentification.notificationType",
+    "defaultMessage": "Notification Type",
+    "filepath": "src/Screens/ContentIdentification/ContentIdentifications/ContentIdentifications.js"
+  },
+  {
+    "id": "contentIdentification.notificationDelay",
+    "defaultMessage": "Notification Delay (Minutes)",
+    "filepath": "src/Screens/ContentIdentification/ContentIdentifications/ContentIdentifications.js"
+  },
+  {
+    "id": "contentIdentification.enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Screens/ContentIdentification/ContentIdentifications/ContentIdentifications.js"
+  },
+  {
+    "id": "Scheduler.Save",
+    "defaultMessage": "Save",
+    "filepath": "src/Screens/ControlCenter/Scheduler/Scheduler.js"
+  },
+  {
+    "id": "Scheduler.Cancel",
+    "defaultMessage": "Cancel",
+    "filepath": "src/Screens/ControlCenter/Scheduler/Scheduler.js"
+  },
+  {
+    "id": "systemTask.taskDescription",
+    "defaultMessage": "Task Description",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "systemTask.lastRun",
+    "defaultMessage": "Last Run",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "systemTask.nextRun",
+    "defaultMessage": "Next Run",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "systemTask.shedType",
+    "defaultMessage": "Schedule Type",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "systemTask.Status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "systemTask.repeatFrequency",
+    "defaultMessage": "Repeat Frequency",
+    "filepath": "src/Screens/ControlCenter/Scheduler/SystemTask/SystemTask.js"
+  },
+  {
+    "id": "userTask.taskDescription",
+    "defaultMessage": "Task Description",
+    "filepath": "src/Screens/ControlCenter/Scheduler/UserTask/UserTask.js"
+  },
+  {
+    "id": "userTask.nextRun",
+    "defaultMessage": "Next Run",
+    "filepath": "src/Screens/ControlCenter/Scheduler/UserTask/UserTask.js"
+  },
+  {
+    "id": "userTask.shedType",
+    "defaultMessage": "Schedule Type",
+    "filepath": "src/Screens/ControlCenter/Scheduler/UserTask/UserTask.js"
+  },
+  {
+    "id": "userTask.Owner",
+    "defaultMessage": "Owner",
+    "filepath": "src/Screens/ControlCenter/Scheduler/UserTask/UserTask.js"
+  },
+  {
+    "id": "userTask.enable",
+    "defaultMessage": "Enable",
+    "filepath": "src/Screens/ControlCenter/Scheduler/UserTask/UserTask.js"
+  },
+  {
+    "id": "Statistics.StatisticsSummary",
+    "defaultMessage": "Statistics Summary",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.Total/Sync-Enabled/Sync-Disabled",
+    "defaultMessage": "Active Directory (Total/Sync-Enabled/Sync-Disabled) :",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.No.OfArchiveStores",
+    "defaultMessage": "No. of Archive Stores :",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.LastMessageArchivedAt",
+    "defaultMessage": "Last Message Archived at :",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.TotalMessagesArchived/TotalMessageSize(MB)",
+    "defaultMessage": "Total Messages Archived/Total Message Size(MB) :",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.MailboxAccessCount",
+    "defaultMessage": "Mailbox Access Count :",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "Statistics.TotalNotificationsConfigured",
+    "defaultMessage": "Total Notifications Configured",
+    "filepath": "src/Screens/ControlCenter/Statistic/Statistic.js"
+  },
+  {
+    "id": "taskLog.date",
+    "defaultMessage": "Task Description",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.level",
+    "defaultMessage": "Level",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.message",
+    "defaultMessage": "Message",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.occurance",
+    "defaultMessage": "No.of Occurance",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.Message",
+    "defaultMessage": "Message",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.Select",
+    "defaultMessage": "Select",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.StartsWith",
+    "defaultMessage": "Starts With",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.EndWith",
+    "defaultMessage": "End With",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.Contains",
+    "defaultMessage": "Contains",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.DateRange",
+    "defaultMessage": "Date Range :",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.(yyyy-mm-dd hh:mi)",
+    "defaultMessage": "(yyyy-mm-dd hh:mi)",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.00_From",
+    "defaultMessage": "00",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.00_To",
+    "defaultMessage": "00",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.To",
+    "defaultMessage": "To",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.LogLevel",
+    "defaultMessage": "Log Level",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog._Select",
+    "defaultMessage": "Select",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.ALL",
+    "defaultMessage": "ALL",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.WARN",
+    "defaultMessage": "WARN",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.ERROR",
+    "defaultMessage": "ERROR",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.FATAL",
+    "defaultMessage": "FATAL",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.ShowAllColumns",
+    "defaultMessage": "Show All Columns",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.AutoRefreshInSeconds",
+    "defaultMessage": "Auto Refresh (in seconds)",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.00_autoRefresh",
+    "defaultMessage": "00_autoRefresh",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.Seconds",
+    "defaultMessage": "(Seconds)",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.OFF",
+    "defaultMessage": "OFF",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "taskLog.ON",
+    "defaultMessage": "ON",
+    "filepath": "src/Screens/ControlCenter/TaskLog/TaskLog.js"
+  },
+  {
+    "id": "exclusionList.MailID",
+    "defaultMessage": "Mail ID",
+    "filepath": "src/Screens/Export/ExclusionList/ExclusionList.js"
+  },
+  {
+    "id": "ExportTemplate.Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/Export/Export.js"
+  },
+  {
+    "id": "ExportTemplate.Exports",
+    "defaultMessage": "Exports",
+    "filepath": "src/Screens/Export/Export.js"
+  },
+  {
+    "id": "ExportTemplate.RedactionList",
+    "defaultMessage": "Redaction List",
+    "filepath": "src/Screens/Export/Export.js"
+  },
+  {
+    "id": "ExportTemplate.ExclusionList",
+    "defaultMessage": "Exclusion List",
+    "filepath": "src/Screens/Export/Export.js"
+  },
+  {
+    "id": "reductionList.title",
+    "defaultMessage": "Title",
+    "filepath": "src/Screens/Export/RedactionList/RedactionList.js"
+  },
+  {
+    "id": "reductionList.regularExpression",
+    "defaultMessage": "Regular Expression",
+    "filepath": "src/Screens/Export/RedactionList/RedactionList.js"
+  },
+  {
+    "id": "reductionList.enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Screens/Export/RedactionList/RedactionList.js"
+  },
+  {
+    "id": "tasks.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "tasks.scheduledDate",
+    "defaultMessage": "Scheduled Date",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "tasks.status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "tasks.enable",
+    "defaultMessage": "Enable",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "tasks.availableTill",
+    "defaultMessage": "Available Till",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "tasks.downloadLink",
+    "defaultMessage": "Download Link",
+    "filepath": "src/Screens/Export/Tasks/Tasks.js"
+  },
+  {
+    "id": "ControlCenter.ControlCenterHelp",
+    "defaultMessage": "Control Center Help",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "ControlCenter.LeftNavigationPaneaddedtoMyArchivedEmails",
+    "defaultMessage": "Left Navigation Pane added to My Archived Emails",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "ControlCenter.LeftNavigationPane",
+    "defaultMessage": "Left Navigation Pane",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "ControlCenter.TheLeftNavigationPaneallowusertobrowseandseachtheirarchivedemails",
+    "defaultMessage": "The Left Navigation Pane allow user to browse and seach their archived emails.",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "ControlCenter.BydefaulttheFiltericonwillbeselectedThisallowsyoutobrowseyouremailfolders",
+    "defaultMessage": "By default, the Filter icon will be selected. This allows you to browse your email folders.",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "ControlCenter.TosearchyouremailsclicktheSearchicon",
+    "defaultMessage": "To search your emails, click the Search icon.",
+    "filepath": "src/Screens/Help/Help/ControlCenterHelp/ControlCenterHelp.js"
+  },
+  {
+    "id": "Help_Template.Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.Help",
+    "defaultMessage": "Help",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ControlCenterHelp",
+    "defaultMessage": "Control Center",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.MyArchivedEmailHelp",
+    "defaultMessage": "My Archived Email",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SearchArchiveHelp",
+    "defaultMessage": "Search Archive",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.LegalHoldHelp",
+    "defaultMessage": "Legal Hold",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ExportsHelp",
+    "defaultMessage": "Exports",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.PoliciesHelp",
+    "defaultMessage": "Policies",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SchedulerHelp",
+    "defaultMessage": "Scheduler",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.StatisticsHelp",
+    "defaultMessage": "Statistics",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SchedularHelp",
+    "defaultMessage": "Schedular",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SystemTaskHelp",
+    "defaultMessage": "System Task",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.UserTaskHelp",
+    "defaultMessage": "User Task",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.TaskLogHelp",
+    "defaultMessage": "TaskLog",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.RedactionListHelp",
+    "defaultMessage": "Redaction List",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ExclusionListHelp",
+    "defaultMessage": "Exclusion List",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SettingHelp",
+    "defaultMessage": "Setting",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.Control_Center_Help",
+    "defaultMessage": "Control Center",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.StatusHelp",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.LicenseHelp",
+    "defaultMessage": "License",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ActivateProductHelp",
+    "defaultMessage": "Activate Product",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ConfigurationHelp",
+    "defaultMessage": "Configuration",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.Configuration_Help",
+    "defaultMessage": "Configuration_Help",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.GeneralHelp",
+    "defaultMessage": "General",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.DeploymentHelp",
+    "defaultMessage": "Deployment",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ActiveDirectoryHelp",
+    "defaultMessage": "Active Directory",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.EmailServerHelp",
+    "defaultMessage": "Email Server",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.HistoricDomainHelp",
+    "defaultMessage": "Historic Domain",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SecurityHelp",
+    "defaultMessage": "Security",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SSOHelp",
+    "defaultMessage": "SSO",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.MailboxAccessHelp",
+    "defaultMessage": "Mailbox Access",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.RoleManagementHelp",
+    "defaultMessage": "Role Management",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.UserManagementHelp",
+    "defaultMessage": "User Management",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.NotificationHelp",
+    "defaultMessage": "Notification",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.SMTPSettingsHelp",
+    "defaultMessage": "SMTP Settings",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.Notification_Help",
+    "defaultMessage": "Notification",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.ArchivalPolicyHelp",
+    "defaultMessage": "Archival Policy",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.StubPolicyHelp",
+    "defaultMessage": "Stub Policy",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.FolderSyncPolicyHelp",
+    "defaultMessage": "Folder Sync Policy",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.RetentionPolicyHelp",
+    "defaultMessage": "Retention Policy",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "Help_Template.AutoLabelHelp",
+    "defaultMessage": "Auto Label",
+    "filepath": "src/Screens/Help/Help/Help.js"
+  },
+  {
+    "id": "WhatsNew_Template.Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/Help/What'sNew/What'sNew.js"
+  },
+  {
+    "id": "WhatsNew_Template.WhatsNew",
+    "defaultMessage": "What's New",
+    "filepath": "src/Screens/Help/What'sNew/What'sNew.js"
+  },
+  {
+    "id": "WhatsNew_Template.ResolvedIssues",
+    "defaultMessage": "Resolved Issues",
+    "filepath": "src/Screens/Help/What'sNew/What'sNew.js"
+  },
+  {
+    "id": "WhatsNew_Template.KnownIssues",
+    "defaultMessage": "Known Issues",
+    "filepath": "src/Screens/Help/What'sNew/What'sNew.js"
+  },
+  {
+    "id": "WhatsNew_Template.Limitation",
+    "defaultMessage": "Limitation",
+    "filepath": "src/Screens/Help/What'sNew/What'sNew.js"
+  },
+  {
+    "id": "homeScreen.controlCenterCard",
+    "defaultMessage": "CONTROL CENTER",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.myArchivedEmailCard",
+    "defaultMessage": "MY ARCHIVED EMAIL",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.searchArchiveCard",
+    "defaultMessage": "SEARCH ARCHIVE",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.legalHoldsCard",
+    "defaultMessage": "LEGAL HOLDS",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.exportsCard",
+    "defaultMessage": "EXPORTS",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.policiesCard",
+    "defaultMessage": "POLICIES",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "homeScreen.schedulerCard",
+    "defaultMessage": "SCHEDULER",
+    "filepath": "src/Screens/HomeScreen/HomeScreen.js"
+  },
+  {
+    "id": "legalCase.type",
+    "defaultMessage": "Type",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.information",
+    "defaultMessage": "Information",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.snippet",
+    "defaultMessage": "Snippet",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.labels",
+    "defaultMessage": "Labels",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.LegalHolds",
+    "defaultMessage": "Legal Holds",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.OnHold",
+    "defaultMessage": "On Hold",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase.SearchArchive",
+    "defaultMessage": "Search Archive",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalCase._LegalHolds",
+    "defaultMessage": "Legal Holds",
+    "filepath": "src/Screens/LegalHold/LegalCase.js"
+  },
+  {
+    "id": "legalHold.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.type",
+    "defaultMessage": "Type",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "DataTable.Edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.primaryAttorney",
+    "defaultMessage": "Primary Attorney",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.team",
+    "defaultMessage": "Team",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.created",
+    "defaultMessage": "Created",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.closed",
+    "defaultMessage": "Closed",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.LegalHolds",
+    "defaultMessage": "Legal Holds",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.All",
+    "defaultMessage": "All",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.Active",
+    "defaultMessage": "Active",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold.Released",
+    "defaultMessage": "Released",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "legalHold._LegalHolds",
+    "defaultMessage": "Legal Holds",
+    "filepath": "src/Screens/LegalHold/LegalHold.js"
+  },
+  {
+    "id": "Login.SignIn",
+    "defaultMessage": "Sign In",
+    "filepath": "src/Screens/Login/Login.js"
+  },
+  {
+    "id": "LoginForm.PleaseInputYourEmail",
+    "defaultMessage": "Please input your email!",
+    "filepath": "src/Screens/Login/LoginForm.js"
+  },
+  {
+    "id": "LoginForm.Email",
+    "defaultMessage": "Email",
+    "filepath": "src/Screens/Login/LoginForm.js"
+  },
+  {
+    "id": "LoginForm.PleaseInputYourPassword",
+    "defaultMessage": "Please input your Password!",
+    "filepath": "src/Screens/Login/LoginForm.js"
+  },
+  {
+    "id": "LoginForm.Password",
+    "defaultMessage": "Password",
+    "filepath": "src/Screens/Login/LoginForm.js"
+  },
+  {
+    "id": "myArchivedEmail.information",
+    "defaultMessage": "Information",
+    "filepath": "src/Screens/MyArchiveEmail/MyArchiveEmail.js"
+  },
+  {
+    "id": "myArchivedEmail.snippet",
+    "defaultMessage": "Snippet",
+    "filepath": "src/Screens/MyArchiveEmail/MyArchiveEmail.js"
+  },
+  {
+    "id": "myArchivedEmail.MyArchivedEmail",
+    "defaultMessage": "My Archived Email",
+    "filepath": "src/Screens/MyArchiveEmail/MyArchiveEmail.js"
+  },
+  {
+    "id": "myArchivedEmail._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/MyArchiveEmail/MyArchiveEmail.js"
+  },
+  {
+    "id": "myArchivedEmail._MyArchivedEmail",
+    "defaultMessage": "My Archived Email",
+    "filepath": "src/Screens/MyArchiveEmail/MyArchiveEmail.js"
+  },
+  {
+    "id": "notification.notificationType",
+    "defaultMessage": "Notification Type",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.snippet",
+    "defaultMessage": "Snippet",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.sent",
+    "defaultMessage": "Sent",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.dismissed",
+    "defaultMessage": "Dismissed",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.action",
+    "defaultMessage": "Action",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.Report",
+    "defaultMessage": "Report",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.Notifications",
+    "defaultMessage": "Notifications",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.NotificationsReport",
+    "defaultMessage": "Notifications Report",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.All",
+    "defaultMessage": "All",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.Active",
+    "defaultMessage": "Active",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification.Dismissed",
+    "defaultMessage": "Dismissed",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "notification._Notifications",
+    "defaultMessage": "Notifications",
+    "filepath": "src/Screens/Notification/Notification.js"
+  },
+  {
+    "id": "saveSearch.favourites",
+    "defaultMessage": "Favorites",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.description",
+    "defaultMessage": "Description",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.edit",
+    "defaultMessage": "Edit",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.criteria",
+    "defaultMessage": "Criteria",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.run",
+    "defaultMessage": "Run",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.delete",
+    "defaultMessage": "Delete",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.SavedSearches",
+    "defaultMessage": "Saved Searches",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch._Search Archive",
+    "defaultMessage": "Search Archive",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch._Saved Searches",
+    "defaultMessage": "Saved Searches",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "saveSearch.SavedSearchesReport",
+    "defaultMessage": "Saved Searches Report",
+    "filepath": "src/Screens/SearchArchive/SaveSearch.js"
+  },
+  {
+    "id": "searchArchive.type",
+    "defaultMessage": "Type",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive.information",
+    "defaultMessage": "Information",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive.snippet",
+    "defaultMessage": "Snippet",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive.labels",
+    "defaultMessage": "Labels",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive.SearchArchive",
+    "defaultMessage": "Search Archive",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive._Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive._Search Archive",
+    "defaultMessage": "Search Archive",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "searchArchive.SearchArchiveReport",
+    "defaultMessage": "Search Archive Report",
+    "filepath": "src/Screens/SearchArchive/SearchArchive.js"
+  },
+  {
+    "id": "activeDirectory.domain",
+    "defaultMessage": "Domain",
+    "filepath": "src/Screens/Setting/Configuration/ActiveDirectory/ActiveDirectory.js"
+  },
+  {
+    "id": "activeDirectory.userName",
+    "defaultMessage": "Last",
+    "filepath": "src/Screens/Setting/Configuration/ActiveDirectory/ActiveDirectory.js"
+  },
+  {
+    "id": "activeDirectory.syncStatus",
+    "defaultMessage": "Sync Status",
+    "filepath": "src/Screens/Setting/Configuration/ActiveDirectory/ActiveDirectory.js"
+  },
+  {
+    "id": "archiveStore.archiveStore",
+    "defaultMessage": "Archive Store",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.database",
+    "defaultMessage": "Database",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.type",
+    "defaultMessage": "Type",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.size",
+    "defaultMessage": "Size (MB)",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.period",
+    "defaultMessage": "Period (Days)",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.createdOn",
+    "defaultMessage": "Created On",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "archiveStore.createdBy",
+    "defaultMessage": "Created By",
+    "filepath": "src/Screens/Setting/Configuration/ArchiveStore/ArchiveStore.js"
+  },
+  {
+    "id": "Configuration.Deployment",
+    "defaultMessage": "Deployment",
+    "filepath": "src/Screens/Setting/Configuration/Configuration.js"
+  },
+  {
+    "id": "Configuration.ActiveDirectory",
+    "defaultMessage": "Active Directory",
+    "filepath": "src/Screens/Setting/Configuration/Configuration.js"
+  },
+  {
+    "id": "Configuration.EmailServer",
+    "defaultMessage": "Email Server",
+    "filepath": "src/Screens/Setting/Configuration/Configuration.js"
+  },
+  {
+    "id": "Configuration.ArchiveStores",
+    "defaultMessage": "Archive Stores",
+    "filepath": "src/Screens/Setting/Configuration/Configuration.js"
+  },
+  {
+    "id": "Configuration.HistoricDomains",
+    "defaultMessage": "Historic Domains",
+    "filepath": "src/Screens/Setting/Configuration/Configuration.js"
+  },
+  {
+    "id": "deployment.siteName",
+    "defaultMessage": "Site Name",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.SiteUrl",
+    "defaultMessage": "Site Url",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.SitePrefix",
+    "defaultMessage": "Site Prefix",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.PleaseWriteSitePrefix",
+    "defaultMessage": "Please Write Site Prefix",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.ArchivalTopology",
+    "defaultMessage": "Archival Topology",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.CentralArchive",
+    "defaultMessage": "Central Archive",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "deployment.MultiArchive",
+    "defaultMessage": "Multi Archive",
+    "filepath": "src/Screens/Setting/Configuration/Deployment/Deployment.js"
+  },
+  {
+    "id": "emailServer.emailServer",
+    "defaultMessage": "Email Server",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.journalMailbox",
+    "defaultMessage": "Journal Mailbox",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.journalLogon",
+    "defaultMessage": "Journal Logon",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.frequency",
+    "defaultMessage": "Frequency",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.archivePublicFolder",
+    "defaultMessage": "Archive Public Folder?",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.publicFolderPollFrequency",
+    "defaultMessage": "Public Folder Poll Frequency (Minutes)",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.stubEnabled",
+    "defaultMessage": "Stub Enabled",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.stubPeriod",
+    "defaultMessage": "Stub Period (Days)",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.excludeHours",
+    "defaultMessage": "Exclude Hours?",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.excludeHoursStartTime",
+    "defaultMessage": "Exclude Hours Start Time (HH:mm)",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.excludeHoursEndTime",
+    "defaultMessage": "Exclude Hours End Time (HH:mm)",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.domainName",
+    "defaultMessage": "Domain Name",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "emailServer.agentVersion",
+    "defaultMessage": "Agent Version",
+    "filepath": "src/Screens/Setting/Configuration/EmailServer/EmailServer.js"
+  },
+  {
+    "id": "General.TemporaryStoragePath",
+    "defaultMessage": "Temporary Storage Path",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Archive",
+    "defaultMessage": "Archive",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Export",
+    "defaultMessage": "Export",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.DefaultRoleSettings",
+    "defaultMessage": "Default Role Settings",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Role",
+    "defaultMessage": "Role",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.SelectRole",
+    "defaultMessage": "Select Role",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.ApplyToExistingUsers",
+    "defaultMessage": "Apply To Existing Users",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.DeleteTaskLogsOlderThan",
+    "defaultMessage": "Delete Task Logs older than",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Days",
+    "defaultMessage": "Days",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.NumberOfEmailsPerExportFile",
+    "defaultMessage": "Number of Emails per Export file",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Count",
+    "defaultMessage": "Count",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.ExportORForwardFolderSize",
+    "defaultMessage": "Export/Forward Folder Size",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.MB",
+    "defaultMessage": "MB",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.NumberOfParallelExportTasks",
+    "defaultMessage": "Number of Parallel Export Tasks",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.KeepExportFileFor",
+    "defaultMessage": "Keep Export File for",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.NotifyRetentionExpiryBefore",
+    "defaultMessage": "Notify Retention Expiry before",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.NotifyIfEmailsAreNotArchivedForMoreThan",
+    "defaultMessage": "Notify if emails are not archived for more than",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.Minutes",
+    "defaultMessage": "Minutes",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.NotifyIfPublicFolderItemsAreNotArchivedForMoreThan",
+    "defaultMessage": "Notify if public folder items are not archived for more than",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.ReportErrorat",
+    "defaultMessage": "Report Error at",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.EnableWORMJournaling",
+    "defaultMessage": "Enable WORM Journaling",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "General.HH:mm",
+    "defaultMessage": "(HH:mm)",
+    "filepath": "src/Screens/Setting/Configuration/General/General.js"
+  },
+  {
+    "id": "historyDomain.oldDomainName",
+    "defaultMessage": "Old Domain Name",
+    "filepath": "src/Screens/Setting/Configuration/HistoryDomain/HistoryDomain.js"
+  },
+  {
+    "id": "historyDomain.description",
+    "defaultMessage": "Description",
+    "filepath": "src/Screens/Setting/Configuration/HistoryDomain/HistoryDomain.js"
+  },
+  {
+    "id": "historyDomain.grantedMailBoxes",
+    "defaultMessage": "Granted Mailboxes",
+    "filepath": "src/Screens/Setting/Configuration/HistoryDomain/HistoryDomain.js"
+  },
+  {
+    "id": "ActivateProduct.chooseyourfile",
+    "defaultMessage": "choose your file",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.ActivateProductSummary",
+    "defaultMessage": "Activate Product Summary",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.LicenseInformation",
+    "defaultMessage": "License Information",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.LicensedTo",
+    "defaultMessage": "Licensed To",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.ExpiryDate",
+    "defaultMessage": "Expiry Date",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.Mailbox(es)",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.ActiveDirectories",
+    "defaultMessage": "Active Directories",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.EmailServer(es)",
+    "defaultMessage": "Email Server(es)",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.Warning",
+    "defaultMessage": "Warning :",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.AuthorizationKey",
+    "defaultMessage": "Authorization Key :",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.LicenseConfigured",
+    "defaultMessage": "License Configured",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.EmailServer(Licensed)",
+    "defaultMessage": "Email Server (Licensed) :",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.Mailboxes(Licensed)",
+    "defaultMessage": "Mailboxes (Licensed) :",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.License",
+    "defaultMessage": "License:",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.UploadFile",
+    "defaultMessage": "Upload File",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.ChooseFile",
+    "defaultMessage": "Choose file",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "ActivateProduct.UploadKey",
+    "defaultMessage": "Upload Key",
+    "filepath": "src/Screens/Setting/ControlCenter/ActivateProduct/ActivateProduct.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.ConfigurationSummary",
+    "defaultMessage": "Configuration Summary",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.DeploymentType",
+    "defaultMessage": "Deployment Type :",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.SMTPConfigured?",
+    "defaultMessage": "SMTP Configured? :",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.DefaultPasswordChanged?",
+    "defaultMessage": "Default Password Changed? :",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.UserDefinedRetentionPolicyConfigured?",
+    "defaultMessage": "User-Defined Retention Policy Configured?:",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.DefaultRetentionPolicyConfigured?",
+    "defaultMessage": "Default Retention Policy Configured?:",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.PurgePolicyConfigured?",
+    "defaultMessage": "Purge Policy Configured?:",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "Settings_ControlCenter_Configuration.ArchivalType",
+    "defaultMessage": "Archival Type :",
+    "filepath": "src/Screens/Setting/ControlCenter/Configuration/Configuration.js"
+  },
+  {
+    "id": "ControlCenter_Setting.Activate Product",
+    "defaultMessage": "Activate Product",
+    "filepath": "src/Screens/Setting/ControlCenter/ControlCenter.js"
+  },
+  {
+    "id": "ControlCenter_Setting.License",
+    "defaultMessage": "License",
+    "filepath": "src/Screens/Setting/ControlCenter/ControlCenter.js"
+  },
+  {
+    "id": "ControlCenter_Setting.Status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/ControlCenter/ControlCenter.js"
+  },
+  {
+    "id": "ControlCenter_Setting.Configuration",
+    "defaultMessage": "Configuration",
+    "filepath": "src/Screens/Setting/ControlCenter/ControlCenter.js"
+  },
+  {
+    "id": "License.LicenseSummary",
+    "defaultMessage": "License Summary",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.LicenseInformation",
+    "defaultMessage": "License Information",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.LicensedTo",
+    "defaultMessage": "Licensed To",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.ExpiryDate",
+    "defaultMessage": "Expiry Date",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.Mailbox(es)",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.ActiveDirectories",
+    "defaultMessage": "Active Directories",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.EmailServer(es)",
+    "defaultMessage": "Email Server(es)",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.Warning",
+    "defaultMessage": "Warning :",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.AuthorizationKey",
+    "defaultMessage": "Authorization Key :",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.LicenseConfigured",
+    "defaultMessage": "License Configured",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.EmailServer(Licensed)",
+    "defaultMessage": "Email Server (Licensed) :",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.Mailboxes(Licensed)",
+    "defaultMessage": "Mailboxes (Licensed) :",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "License.License",
+    "defaultMessage": "License:",
+    "filepath": "src/Screens/Setting/ControlCenter/License/License.js"
+  },
+  {
+    "id": "Status.CreatedOn",
+    "defaultMessage": "Created on",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.ArchivingNormally",
+    "defaultMessage": "Archiving Normally",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.SystemIsRecevingDataNormally",
+    "defaultMessage": "System is Receving Data Normally.",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.ItemsHaveBeenArchivedInTheLast",
+    "defaultMessage": "items have been archived in the last",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.NotArchivingNormally",
+    "defaultMessage": "Not Archiving Normally",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.PurgePolicy",
+    "defaultMessage": "Purge Policy :",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.RetentionExpired",
+    "defaultMessage": "Retention Expired :",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Status.RetentionGraceExpired",
+    "defaultMessage": "Retention Grace Expired :",
+    "filepath": "src/Screens/Setting/ControlCenter/Status/Status.js"
+  },
+  {
+    "id": "Notification_Setting.SMTP",
+    "defaultMessage": "SMTP",
+    "filepath": "src/Screens/Setting/Notification/Notification.js"
+  },
+  {
+    "id": "Notification_Setting.Notifications",
+    "defaultMessage": "Notifications",
+    "filepath": "src/Screens/Setting/Notification/Notification.js"
+  },
+  {
+    "id": "notification_SeeAll.notificationType",
+    "defaultMessage": "Notification Type",
+    "filepath": "src/Screens/Setting/Notification/Notification/Notification.js"
+  },
+  {
+    "id": "notification_SeeAll.to",
+    "defaultMessage": "To",
+    "filepath": "src/Screens/Setting/Notification/Notification/Notification.js"
+  },
+  {
+    "id": "notification_SeeAll.cc",
+    "defaultMessage": "Cc",
+    "filepath": "src/Screens/Setting/Notification/Notification/Notification.js"
+  },
+  {
+    "id": "SmtpForm.SenderEmail",
+    "defaultMessage": "Sender Email",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.PleaseWriteSenderEmail",
+    "defaultMessage": "Please Write Sender Email",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.SMTPHost",
+    "defaultMessage": "SMTP Host",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.PleaseWriteSMTPHost",
+    "defaultMessage": "Please write SMTP Host",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.Port",
+    "defaultMessage": "Port",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.PleaseWritePort",
+    "defaultMessage": "Please Write Port",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.AuthenticationRequired",
+    "defaultMessage": "Authentication Required",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.Crendentials",
+    "defaultMessage": "Crendentials",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.UserName",
+    "defaultMessage": "User Name",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "SmtpForm.Password",
+    "defaultMessage": "Password",
+    "filepath": "src/Screens/Setting/Notification/SMTP/SMTP.js"
+  },
+  {
+    "id": "archivalPolicy.emailID",
+    "defaultMessage": "Email ID",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Users",
+    "defaultMessage": "Users",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.AllUsers",
+    "defaultMessage": "All",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.SelectedUsers",
+    "defaultMessage": "Selected",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Include",
+    "defaultMessage": "Include",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Exclude",
+    "defaultMessage": "Exclude",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Note_NewusermailboxeswillbeaddedautomaticallytoArchivalPolicy.UseExcludeoption.",
+    "defaultMessage": "Note : New user mailboxes will be added automatically to 'Archival Policy. Use Exclude option.",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Note_Newusermailboxeswillbeaddedautomaticallyto'ArchivalPolicy.",
+    "defaultMessage": "Note : New user mailboxes will be added automatically to 'Archival Policy.",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Server",
+    "defaultMessage": "Server:",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.SelectServer",
+    "defaultMessage": "Select Server",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Fetching...",
+    "defaultMessage": "Fetching...",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.StorageGroup",
+    "defaultMessage": "Storage Group:",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.SelectStorageGroup",
+    "defaultMessage": "Select Storage Group",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.MailboxStore",
+    "defaultMessage": "Mailbox Store:",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.MailBox_Store",
+    "defaultMessage": "MailBox_Store",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Included",
+    "defaultMessage": "Included",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Excluded",
+    "defaultMessage": "Excluded",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.Mailbox(es)",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.ExternalUsers",
+    "defaultMessage": "External Users",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "archivalPolicy.EmailID",
+    "defaultMessage": "EmailID",
+    "filepath": "src/Screens/Setting/Policies/ArchivalPolicy/ArchivalPolicy.js"
+  },
+  {
+    "id": "AutoLabeling.GlobalLabels",
+    "defaultMessage": "Global Labels",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/AutoLabeling.js"
+  },
+  {
+    "id": "AutoLabeling.CaseLabels",
+    "defaultMessage": "Case Labels",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/AutoLabeling.js"
+  },
+  {
+    "id": "caseLabels.policyName",
+    "defaultMessage": "Policy Name",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/CaseLabels/CaseLabels.js"
+  },
+  {
+    "id": "caseLabels.labelName",
+    "defaultMessage": "Label Name",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/CaseLabels/CaseLabels.js"
+  },
+  {
+    "id": "caseLabels.activate",
+    "defaultMessage": "Activate",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/CaseLabels/CaseLabels.js"
+  },
+  {
+    "id": "globalLabels.policyName",
+    "defaultMessage": "Policy Name",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/GlobalLabels/GlobalLabels.js"
+  },
+  {
+    "id": "globalLabels.labelName",
+    "defaultMessage": "Label Name",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/GlobalLabels/GlobalLabels.js"
+  },
+  {
+    "id": "globalLabels.activate",
+    "defaultMessage": "Activate",
+    "filepath": "src/Screens/Setting/Policies/AutoLabeling/GlobalLabels/GlobalLabels.js"
+  },
+  {
+    "id": "folderSync.server",
+    "defaultMessage": "Server",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.completedOn",
+    "defaultMessage": "Completed On",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Fetching",
+    "defaultMessage": "Fetching",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Reset",
+    "defaultMessage": "Reset",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.History",
+    "defaultMessage": "History",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.ConfigurationPolicy",
+    "defaultMessage": "Configuration policy",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Server",
+    "defaultMessage": "Server",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.SelectOne",
+    "defaultMessage": "Select One",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.ALL",
+    "defaultMessage": "ALL",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.PleaseWriteServer",
+    "defaultMessage": "Please Write Server",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Available",
+    "defaultMessage": "Available",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Selected",
+    "defaultMessage": "Selected",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "folderSync.Mailbox(es)",
+    "defaultMessage": "Mailbox(es)",
+    "filepath": "src/Screens/Setting/Policies/FolderSync/FolderSync.js"
+  },
+  {
+    "id": "Policies.Archival",
+    "defaultMessage": "Archival",
+    "filepath": "src/Screens/Setting/Policies/Policies.js"
+  },
+  {
+    "id": "Policies.Folder",
+    "defaultMessage": "Folder",
+    "filepath": "src/Screens/Setting/Policies/Policies.js"
+  },
+  {
+    "id": "Policies.Stub",
+    "defaultMessage": "Stub",
+    "filepath": "src/Screens/Setting/Policies/Policies.js"
+  },
+  {
+    "id": "Policies.AutoLabel",
+    "defaultMessage": "Auto Label",
+    "filepath": "src/Screens/Setting/Policies/Policies.js"
+  },
+  {
+    "id": "Policies.Retention",
+    "defaultMessage": "Retention",
+    "filepath": "src/Screens/Setting/Policies/Policies.js"
+  },
+  {
+    "id": "Deletion.AsSoonasRetentionPeriodExpires",
+    "defaultMessage": "As Soon as Retention Period Expires",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.GracePeriod",
+    "defaultMessage": "Grace Period",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.Days",
+    "defaultMessage": "Days",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.Expired",
+    "defaultMessage": "Expired",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.Schedule",
+    "defaultMessage": "Schedule",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.TimeinHH:mmformat",
+    "defaultMessage": "(Time in HH:mm format)",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.HH",
+    "defaultMessage": "HH",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.MM",
+    "defaultMessage": "MM",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.am",
+    "defaultMessage": "AM",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "Deletion.Enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Screens/Setting/Policies/Retention/Deletion/Deletion.js"
+  },
+  {
+    "id": "expiryDocument.policyName",
+    "defaultMessage": "Policy Name",
+    "filepath": "src/Screens/Setting/Policies/Retention/ExpiryDocument/ExpiryDocument.js"
+  },
+  {
+    "id": "expiryDocument.information",
+    "defaultMessage": "Information",
+    "filepath": "src/Screens/Setting/Policies/Retention/ExpiryDocument/ExpiryDocument.js"
+  },
+  {
+    "id": "policy.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/Setting/Policies/Retention/Policy/Policy.js"
+  },
+  {
+    "id": "policy.priority",
+    "defaultMessage": "Priority",
+    "filepath": "src/Screens/Setting/Policies/Retention/Policy/Policy.js"
+  },
+  {
+    "id": "policy.retentionPeriod",
+    "defaultMessage": "Retention Period (Days)",
+    "filepath": "src/Screens/Setting/Policies/Retention/Policy/Policy.js"
+  },
+  {
+    "id": "policy.retentionGracePeriod",
+    "defaultMessage": "Retention Grace Period (Days)",
+    "filepath": "src/Screens/Setting/Policies/Retention/Policy/Policy.js"
+  },
+  {
+    "id": "policy.status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/Policies/Retention/Policy/Policy.js"
+  },
+  {
+    "id": "Retention.Policy",
+    "defaultMessage": "Policy",
+    "filepath": "src/Screens/Setting/Policies/Retention/Retention.js"
+  },
+  {
+    "id": "Retention.ExpiringDocument",
+    "defaultMessage": "Expiring Document",
+    "filepath": "src/Screens/Setting/Policies/Retention/Retention.js"
+  },
+  {
+    "id": "Retention.Deletion",
+    "defaultMessage": "Deletion",
+    "filepath": "src/Screens/Setting/Policies/Retention/Retention.js"
+  },
+  {
+    "id": "stub.name",
+    "defaultMessage": "Name",
+    "filepath": "src/Screens/Setting/Policies/Stub/Stub.js"
+  },
+  {
+    "id": "stub.description",
+    "defaultMessage": "Description",
+    "filepath": "src/Screens/Setting/Policies/Stub/Stub.js"
+  },
+  {
+    "id": "stub.priority",
+    "defaultMessage": "Priority",
+    "filepath": "src/Screens/Setting/Policies/Stub/Stub.js"
+  },
+  {
+    "id": "stub.stubPeriod",
+    "defaultMessage": "Stub Period",
+    "filepath": "src/Screens/Setting/Policies/Stub/Stub.js"
+  },
+  {
+    "id": "stub.enabled",
+    "defaultMessage": "Enabled",
+    "filepath": "src/Screens/Setting/Policies/Stub/Stub.js"
+  },
+  {
+    "id": "mailBoxAccess.userLogon",
+    "defaultMessage": "User Logon",
+    "filepath": "src/Screens/Setting/Security/MailBoxAccess/MailBoxAccess.js"
+  },
+  {
+    "id": "mailBoxAccess.emailID",
+    "defaultMessage": "Email ID",
+    "filepath": "src/Screens/Setting/Security/MailBoxAccess/MailBoxAccess.js"
+  },
+  {
+    "id": "mailBoxAccess.grantedMailboxes",
+    "defaultMessage": "Granted Mailboxes",
+    "filepath": "src/Screens/Setting/Security/MailBoxAccess/MailBoxAccess.js"
+  },
+  {
+    "id": "roleManagement.emailID",
+    "defaultMessage": "Email ID",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.userLogon",
+    "defaultMessage": "User Logon",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.role",
+    "defaultMessage": "Role",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.description",
+    "defaultMessage": "Description",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.Role",
+    "defaultMessage": "Role",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.AccessAllMailboxes",
+    "defaultMessage": "Access All Mailboxes",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "roleManagement.AssignTo(UserLogon)",
+    "defaultMessage": "Assign To (User Logon)",
+    "filepath": "src/Screens/Setting/Security/RoleManagement/RoleManagement.js"
+  },
+  {
+    "id": "Security.SSO",
+    "defaultMessage": "SSO",
+    "filepath": "src/Screens/Setting/Security/Security.js"
+  },
+  {
+    "id": "Security.MailboxAccess",
+    "defaultMessage": "Mailbox Access",
+    "filepath": "src/Screens/Setting/Security/Security.js"
+  },
+  {
+    "id": "Security.RoleManagement",
+    "defaultMessage": "Role Management",
+    "filepath": "src/Screens/Setting/Security/Security.js"
+  },
+  {
+    "id": "Security.UserManagement",
+    "defaultMessage": "User Management",
+    "filepath": "src/Screens/Setting/Security/Security.js"
+  },
+  {
+    "id": "SSOForm.IdentityProviderURL",
+    "defaultMessage": "Identity Provider URL",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "SSOForm.ServiceProviderURL",
+    "defaultMessage": "Service Provider URL",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "SSOForm.Issuer",
+    "defaultMessage": "Issuer",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "SSOForm.PublicCertificate",
+    "defaultMessage": "Public Certificate",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "SSOForm.ChooseAfile",
+    "defaultMessage": "Choose a file",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "SSOForm.Enabled",
+    "defaultMessage": "Enabled:",
+    "filepath": "src/Screens/Setting/Security/SSO/SSO.js"
+  },
+  {
+    "id": "userManagement.userName",
+    "defaultMessage": "User Name",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.displayName",
+    "defaultMessage": "Display Name",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.mailbox",
+    "defaultMessage": "Mailbox",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.userType",
+    "defaultMessage": "User Type",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.role",
+    "defaultMessage": "Role",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.Search",
+    "defaultMessage": "Se",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "userManagement.Reset",
+    "defaultMessage": "Re",
+    "filepath": "src/Screens/Setting/Security/UserManagement/UserManagement.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Home",
+    "defaultMessage": "Home",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Setting",
+    "defaultMessage": "Setting",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.ControlCenter",
+    "defaultMessage": "CONTROL CENTER",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Status",
+    "defaultMessage": "Status",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.License",
+    "defaultMessage": "License",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Activate Product",
+    "defaultMessage": "Activate Product",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Configuration_ControlCenter",
+    "defaultMessage": "Configuration",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Configuration_Setting",
+    "defaultMessage": "CONFIGURATION",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.General",
+    "defaultMessage": "General",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Deployment",
+    "defaultMessage": "Deployment",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.ActiveDirectory",
+    "defaultMessage": "Active Directory",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.EmailServer",
+    "defaultMessage": "Email Server",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.HistoricDomain",
+    "defaultMessage": "Historic Domain",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Security",
+    "defaultMessage": "SECURITY",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.SSO",
+    "defaultMessage": "SSO",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.MailboxAccess",
+    "defaultMessage": "Mailbox Access",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.RoleManagement",
+    "defaultMessage": "Role Management",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.UserManagement",
+    "defaultMessage": "User Management",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.NotificationCaps",
+    "defaultMessage": "NOTIFICATION",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.SMTPSettings",
+    "defaultMessage": "SMTP Settings",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Notification",
+    "defaultMessage": "Notification",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.Policies",
+    "defaultMessage": "POLICIES",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.ArchivalPolicy",
+    "defaultMessage": "Archival Policy",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.StubPolicy",
+    "defaultMessage": "Stub Policy",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.FolderSyncPolicy",
+    "defaultMessage": "Folder Sync Policy",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.RetentionPolicy",
+    "defaultMessage": "Retention Policy",
+    "filepath": "src/Screens/Setting/Setting.js"
+  },
+  {
+    "id": "Setting_Routes_breadcrumbs.AutoLabel",
+    "defaultMessage": "Auto Label",
+    "filepath": "src/Screens/Setting/Setting.js"
+  }
+]

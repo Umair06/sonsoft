@@ -1,0 +1,3 @@
+const SORT_ROLES_ARRAY = 'SORT_ROLES_ARRAY';
+export const REMOVE_ALL_ROlES = 'REMOVE_ALL_ROlES';
+export default SORT_ROLES_ARRAY

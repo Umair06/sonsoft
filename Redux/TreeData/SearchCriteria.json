@@ -1,0 +1,86 @@
+{
+    "treeData": [
+        {
+            "title": "Employees",
+            "key": "Employees",
+            "children": [
+                {
+                    "title": "Bilal Ahmed",
+                    "key": "Bilal Ahmed"
+                },
+                {
+                    "title": "Bobby Jahanbani",
+                    "key": "Bobby Jahanbani"
+                },
+                {
+                    "title": "Natasha",
+                    "key": "Natasha"
+                }
+            ]
+        },
+        {
+            "title": "Types",
+            "key": "Types",
+            "children": [
+                {
+                    "title": "Bloomberg",
+                    "key": "Bloomberg",
+                    "icon": "Bloomburg72x72.png"
+                },
+                {
+                    "title": "Slack",
+                    "key": "Slack",
+                    "icon": "Slack72x72.png"
+                },
+                {
+                    "title": "Outlook",
+                    "key": "Outlook",
+                    "icon": "Exchange72x72.png"
+                }
+            ]
+        },
+        {
+            "title": "Labels",
+            "key": "Labels",
+            "children": [
+                {
+                    "title": "Attorney-Client Privilege",
+                    "key": "Attorney-Client Privilege",
+                    "color" : "#a349a4"
+                },
+                {
+                    "title": "PII/PHI",
+                    "key": "PII/PHI",
+                    "color" :"#3f48cc"
+                },
+                {
+                    "title": "Trade Secret",
+                    "key": "Trade Secret",
+                    "color":"#f05a28"
+                }
+            ]
+        },{
+            "title": "Any of these terms",
+            "key": "Any of these terms",
+            "children": [{
+            }]
+        },{
+            "title": "All of these terms",
+            "key": "All of these terms", 
+            "children": [{
+                }]
+        },{
+            "title": "None of these terms",
+            "key": "None of these terms",
+            "children": [{
+                }]
+        }
+        ,{
+            "title": "Metadata Search",
+            "key": "Metadata Search",
+            "children": [{
+                "title":"Email from Contains nadams and ( Subject Contains Exterro or Body Contains Exterro ) and Subject Does not contain inFusion"
+            }]
+        }
+    ]
+}

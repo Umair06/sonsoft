@@ -1,0 +1,1 @@
+export const MOVE_TO_TEMPLATE = "MOVE_TO_TEMPLATE";

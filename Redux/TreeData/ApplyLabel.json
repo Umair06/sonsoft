@@ -1,0 +1,80 @@
+{
+  "treeData": [
+    {
+      "title": "Privilege",
+      "key": "Privilege",
+      "children": [
+        {
+          "title": "Attorney-Client Privilege",
+          "key": "Attorney-Client Privilege",
+          "color": "#a349a4"
+        },
+        {
+          "title": "c",
+          "key": "Privilege Redacted",
+          "color": "#a349a4"
+        }
+      ]
+    },
+    {
+      "title": "Confidential",
+      "key": "Confidential",
+      "children": [
+        {
+          "title": "PII, PFI, PHI, PCI",
+          "key": "PII, PFI, PHI, PCI",
+          "color": "#3f48cc"
+        },
+        {
+          "title": "Trade Seret",
+          "key": "Trade Secret",
+          "color": "#3f48cc"
+        }
+      ]
+    },
+    {
+      "title": "Technical Issues",
+      "key": "Technical Issues",
+      "children": [
+        {
+          "title": "Technical Issue",
+          "key": "Technical Issue",
+          "color": "#f05a28"
+        }
+      ]
+    },
+    {
+      "title": "Responsiveness",
+      "key": "Responsiveness",
+      "children": [
+        {
+          "title": "Responsive",
+          "key": "Responsive",
+          "color": "#f05a28"
+        },
+        {
+          "title": "Non-Responsive",
+          "key": "Non-Responsive",
+          "color": "#f05a28"
+        },
+        {
+          "title": "Needs Further Review",
+          "key": "Needs Further Review",
+          "color": "#f05a28"
+        }
+      ]
+    },
+
+    {
+      "title": "Hot Doc",
+      "key": "Hot Doc",
+      "children": [
+        {
+          "title": "Hot Doc",
+          "key": "Hot Doc",
+          "color": "#f05a28"
+        }
+      ]
+    }
+  ]
+}

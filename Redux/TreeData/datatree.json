@@ -1,0 +1,395 @@
+{
+    "treeData": [
+        {
+            "title": "Configuration",
+            "key": "Configuration",
+            "children": [
+                {
+                    "title": "Configuration",
+                    "key": "Configuration1",
+                    "children": [
+                        {
+                            "title": "General",
+                            "key": "General",
+                            "children": [
+                                {
+                                    "title": "View General",
+                                    "key": "View General"
+                                },
+                                {
+                                    "title": "Edit Temporary Storage Path",
+                                    "key": "Edit Temporary Storage Path"
+                                },
+                                {
+                                    "title": "Edit Default Role Setting",
+                                    "key": "Edit Default Role Setting"
+                                },
+                                {
+                                    "title": "Edit Other Setting",
+                                    "key": "Edit Other Setting"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "SMTP Configurtion",
+                            "key": "SMTP Configurtion",
+                            "children": [
+                                {
+                                    "title": "Edit SMTP Setting",
+                                    "key": "Edit SMTP Setting"
+                                },
+                                {
+                                    "title": "View SMTP Configuration",
+                                    "key": "View SMTP Configuratio"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Deployment Setting",
+                            "key": "Deployment Setting",
+                            "children": [
+                                {
+                                    "title": "Edit Deployment Setting",
+                                    "key": "Edit Deployment Setting"
+                                },
+                                {
+                                    "title": "Edit Archival Topology",
+                                    "key": "Edit Archival Topology"
+                                },
+                                {
+                                    "title": "View Deployment Setting",
+                                    "key": "View Deployment Setting"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "AD Setting",
+                            "key": "AD Setting",
+                            "children": [
+                                {
+                                    "title": "Add AD",
+                                    "key": "Add AD"
+                                },
+                                {
+                                    "title": "Edit AD",
+                                    "key": "Edit AD"
+                                },
+                                {
+                                    "title": "Enable Sync",
+                                    "key": "Enable Sync"
+                                },
+                                {
+                                    "title": "Disable Sync",
+                                    "key": "Disable Sync"
+                                },
+                                {
+                                    "title": "Delete AD",
+                                    "key": "Delete AD"
+                                },
+                                {
+                                    "title": "View AD Setting",
+                                    "key": "View AD Setting"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "SSO Setting",
+                            "key": "SSO Setting",
+                            "children": [
+                                {
+                                    "title": "View SSO Setting",
+                                    "key": "View SSO Setting",
+                                    "disabled": true
+                                },
+                                {
+                                    "title": "Edit SSO Setting",
+                                    "key": "Edit SSO Setting",
+                                    "disabled": true
+                                }
+                            ],
+                            "disabled": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Notification",
+                    "key": "Notification",
+                    "children": [
+                        {
+                            "title": "View Notification",
+                            "key": "View Notification"
+                        },
+                        {
+                            "title": "Add Notification",
+                            "key": "Add Notification"
+                        },
+                        {
+                            "title": "Edit Notification",
+                            "key": "Edit Notification"
+                        },
+                        {
+                            "title": "Delete Notification",
+                            "key": "Delete Notification"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Setup",
+            "key": "Setup",
+            "children": [
+                {
+                    "title": "Archival Policy",
+                    "key": "Archival Policy",
+                    "children": [
+                        {
+                            "title": "View Archival Users",
+                            "key": "View Archival Users"
+                        },
+                        {
+                            "title": "Configure Archival Users",
+                            "key": "Configure Archival Users"
+                        },
+                        {
+                            "title": "Configure External Users",
+                            "key": "Configure External Users"
+                        }
+                    ]
+                },
+                {
+                    "title": "Email Server",
+                    "key": "Email Server",
+                    "children": [
+                        {
+                            "title": "View Mail Server",
+                            "key": "View Mail Server"
+                        },
+                        {
+                            "title": "Add Server",
+                            "key": "Add Server"
+                        },
+                        {
+                            "title": "Edit Server",
+                            "key": "Edit Server"
+                        },
+                        {
+                            "title": "Enable Server",
+                            "key": "Enable Server"
+                        },
+                        {
+                            "title": "Disable Server",
+                            "key": "Disable Server"
+                        },
+                        {
+                            "title": "Archive Public Folder",
+                            "key": "Archive Public Folder"
+                        },
+                        {
+                            "title": "Stub Mail Setting",
+                            "key": "Stub Mail Setting"
+                        },
+                        {
+                            "title": "Offline Access Setting",
+                            "key": "Offline Access Setting",
+                            "disabled": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Archive Store",
+                    "key": "Archive Store",
+                    "children": [
+                        {
+                            "title": "View Archive Store",
+                            "key": "View Archive Store"
+                        },
+                        {
+                            "title": "Edit Archive Store",
+                            "key": "Edit Archive Store"
+                        },
+                        {
+                            "title": "Save Location Info",
+                            "key": "Save Location Info"
+                        },
+                        {
+                            "title": "Save Rollover Policy",
+                            "key": "Save Rollover Policy"
+                        }
+                    ]
+                },
+                {
+                    "title": "Retention Policy",
+                    "key": "Retention Policy",
+                    "children": [
+                        {
+                            "title": "View Retention Policy",
+                            "key": "View Retention Policy"
+                        },
+                        {
+                            "title": "Add Retention Policy",
+                            "key": "Add Retention Policy"
+                        },
+                        {
+                            "title": "Edit Retention Policy",
+                            "key": "Edit Retention Policy"
+                        },
+                        {
+                            "title": "Enable Retention Policy",
+                            "key": "Enable Retention Policy"
+                        },
+                        {
+                            "title": "Disable Retention Policy",
+                            "key": "Disable Retention Policy"
+                        },
+                        {
+                            "title": "Delete Retention Policy",
+                            "key": "Delete Retention Policy"
+                        },
+                        {
+                            "title": "Change Priority of Retention Policies",
+                            "key": "Change Priority of Retention Policies"
+                        },
+                        {
+                            "title": "Default Retention",
+                            "key": "Default Retention"
+                        },
+                        {
+                            "title": "Edit Default Retention",
+                            "key": "Edit Default Retention"
+                        },
+                        {
+                            "title": "Retention Setting",
+                            "key": "Retention Policy Setting"
+                        }
+                    ]
+                },
+                {
+                    "title": "Labeling Policy",
+                    "key": "Labeling Policy",
+                    "children": [
+                        {
+                            "title": "View Labeling Policy",
+                            "key": "View Labeling Policy"
+                        },
+                        {
+                            "title": "Add Labeling Policy",
+                            "key": "Add Labeling Policy"
+                        },
+                        {
+                            "title": "Edit Labeling Policy",
+                            "key": "Edit Labeling Policy"
+                        },
+                        {
+                            "title": "Enable Labeling Policy",
+                            "key": "Enable Labeling Policy"
+                        },
+                        {
+                            "title": "Disable Labeling Policy",
+                            "key": "Disable Labeling Policy"
+                        },
+                        {
+                            "title": "Delete Labeling Policy",
+                            "key": "Delete Labeling Policy"
+                        }
+                    ]
+                },
+                {
+                    "title": "Mailbox Access",
+                    "key": "Mailbox Access",
+                    "children": [
+                        {
+                            "title": "View Mailbox Access",
+                            "key": "View Mailbox Access"
+                        },
+                        {
+                            "title": "Add Access",
+                            "key": "Add Access"
+                        },
+                        {
+                            "title": "Remove Access",
+                            "key": "Remove Access"
+                        },
+                        {
+                            "title": "Edit Access",
+                            "key": "Edit Access"
+                        }
+                    ]
+                }
+                ,
+                {
+                    "title": "Role Management",
+                    "key": "Role Management",
+                    "children": [
+                        {
+                            "title": "View Role",
+                            "key": "View Role"
+                        },
+                        {
+                            "title": "Add Role",
+                            "key": "Add Role"
+                        },
+                        {
+                            "title": "Edit Role",
+                            "key": "Edit Role"
+                        },
+                        {
+                            "title": "Enable Role",
+                            "key": "Enable Role"
+                        },
+                        {
+                            "title": "Disable Role",
+                            "key": "Disable Role"
+                        },
+                        {
+                            "title": "Delete Role",
+                            "key": "Delete Role"
+                        },
+                        {
+                            "title": "Assign Role",
+                            "key": "Assign Role"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stub Policy",
+                    "key": "Stub Policy",
+                    "children": [
+                        {
+                            "title": "View Stub Policy",
+                            "key": "View Stub Policy"
+                        },
+                        {
+                            "title": "Add Stub Policy",
+                            "key": "Add Stub Policy"
+                        },
+                        {
+                            "title": "Edit Stub Policy",
+                            "key": "Edit Stub Policy"
+                        },
+                        {
+                            "title": "Enable Stub Policy",
+                            "key": "Enable Stub Policy"
+                        },
+                        {
+                            "title": "Disable Stub Policy",
+                            "key": "Disable Stub Policy"
+                        },
+                        {
+                            "title": "Delete Stub Policy",
+                            "key": "Delete Stub Policy"
+                        },
+                        {
+                            "title": "Change Priority of Stub Policies",
+                            "key": "Change Priority of Stub Policies"
+                        },
+                        {
+                            "title": "Stub Policy Setting",
+                            "key": "Stub Policy Setting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+  }

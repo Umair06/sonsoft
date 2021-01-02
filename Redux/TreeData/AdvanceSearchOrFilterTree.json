@@ -1,0 +1,62 @@
+{
+    "treeData": [
+        {
+            "title": "Global Labels",
+            "key": "Global Labels",
+            "children": [
+                {
+                    "title": "Attorney Client Privilege",
+                    "key": "Attorney Client Privilege",
+                    "color" : "#a349a4"
+                },
+                {
+                    "title": "PII/PHI",
+                    "key": "PII/PHI",
+                    "color" :"#3f48cc"
+                },
+                {
+                    "title": "Trade Secret",
+                    "key": "Trade Secret",
+                    "color":"#008000"
+                }
+            ]
+        },
+        {
+            "title": "Employees",
+            "key": "Employees",
+            "children": [
+                {
+                    "title": "Bilal Ahmed",
+                    "key": "Bilal Ahmed"
+                },
+                {
+                    "title": "Bobby Jahanbani",
+                    "key": "Bobby Jahanbani"
+                },
+                {
+                    "title": "Natasha",
+                    "key": "Natasha"
+                }
+            ]
+        },
+        {
+            "title": "Types",
+            "key": "Types",
+            "children": [
+                {
+                    "title": "Bloomberg",
+                    "key": "Bloomberg",
+                    "icon": "Bloomburg72x72.png"
+                }, {
+                    "title": "Slack",
+                    "key": "Slack",
+                    "icon": "Slack72x72.png"
+                }, {
+                    "title": "Outlook",
+                    "key": "Outlook",
+                    "icon": "Exchange72x72.png"
+                }
+            ]
+        }
+    ]
+  }
